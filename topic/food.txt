@@ -9,7 +9,6 @@ My wife thinks we need to replace the food processor with one of these things. |
 stepping out to get some food | food
 jarvis image me fast food wendys | food
 for [Summer 2016 Food Truck | food
-Jarvis food | food
 Today's food truck is Los Dos Bros Mexican | food
 They can sign up If it's full, he can add a few more spots and adjust the food order. | food
 there's a food truck at Tundra with fish tacos and burgers | ordering
@@ -72,20 +71,15 @@ Ingrates. |
 So I punched them in the genitals. |
 I like monkeys. |
 got grooming with the gnars at 11 - 12, so food stuffs late or I can meet up with everyone wherever  | food
-jarvis food | food
 Little bit of food left in the auditorium come and get it | food
 …and if you like German food… I’d go The entire German Village area is nice actually. | mapping
 no idea what happened but I either caught the stomach bug that is going around James' daycare or I have food poisoning.  Struggling to get out of the house to get James to daycare. WAH...I wrapped up the TC roll up one so probably grab the bulk remove TC story one. | food
 man... i missed epic free food day.  denver fail. | food
 We're putting together the info for food stuffs during planning.  Could you guys let me know if you are here for both breakfast/lunch July 15th/16th.   | food
 remember, no for you | 
-jarvis food | food
 Today's food truck is Cheese Louise | ordering
-jarvis food | food
-jarvis food | food
 Today's food truck is Cheese Louise | ordering
 jarvis better food | food
-jarvis food | food
 Today's food truck is Verde | ordering
 kind of interesting find. I just noticed on a guitest run that the js-error (or something perhaps similar) showed up - Maybe this will help in reproing/debugging the issue? food for thought I guess | 
 Hey sorry to cut the pairing short, but I fell ill last night and am going to stay home today and try and keep some food down. Thanks for having me the past few days. Hopefully next time I can stay a bit longer. | 
@@ -93,7 +87,6 @@ better food here though | food
 what are thoughts on team lunch today, with half the team MIA?  Also, FYI, I'm now on the Always Hungry diet (for a month), so I'll go to lunch but probably can't eat the food | food
 It's called Top Golf - it's driving range with video targets and food and drinks. | 
 here's the list of food for hack demo/planning | food
-jarvis food | food
 Today's food truck is Los Dos Bros Mexican | ordering
 Running late, slept through alarm, was up with food poisoning most if the night. Sorry! Will definitely be in by 10. | food
 So Keila has food poisoning, but she's severely dehydrated, so I'm running all over the place to get her meds and stuff to keep her out of the ER. I can probably get on the interview around Feel free to replace me if you prefer. | food
@@ -120,60 +113,14 @@ the for food-and-other-porn, visit |
 heading out to | 
 come grab food if you want | food
 So I woke up this morning around 5 with food poisoning, and while the worst is over it looks like I'm also tired and shaky. Not really functional for work... I'm going to try to sleep a bit then come in between noon and 1pm. | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food me | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food me | food
-jarvis food | food
 Today's food truck is Ambrosia World Cuisine | ordering
-jarvis food | food
 Today's food truck is Cheese Louise | ordering
-jarvis food me | food
 Today's food truck is Suburban Weiner or Wheel & Whisk | ordering
-jarvis food me | food
 Today's food truck is Knock on Wood BBQ | ordering
 Food for If there are only 283 GUI tests that churro runs, can we reduce the number of threads from 25 in order to reduce the volatility of the churro guitests? There was a 58.4% failure rate today, and from what I've looked at the vast majority of failures are from almHealthCheckServices failing (e.g. alm not starting). Not sure if reducing threads would help with that... open to other suggestions as well.   | 
 dis be da One | 
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
 I think we should plan a big group gathering for the sake of building morale.  Some ideas to think about Odd13 on a Friday afternoon, Food catered and hangout at the patio, Lunch at Rio or Beer Garden.  Feel free to post any other suggestions and then we should vote. | ordering
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-Jarvis food | food
 Sharks, here's some food for thought for the notification email template...  | 
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food | food
-jarvis food wot b 4 lunchylunchy | food
 Food status? | food
 jarvis randomize  | 
 new | 
@@ -211,7 +158,6 @@ jarvis randomize  |
 new | 
 hi of kumquat friends, delorean has a standing meeting on friday afternoons called storytime, we just use it as technical hot talk time. I was wondering if I like, cater it with food, if you would show up and give us some run down on team plan code and churro redux code this friday | food
 (I'm jumping out to grab food before a meeting in 10 mins, back in a bit) | food
-jarvis food | food
 I'm in the office. Just going to get some food & coffee ready then I'll be able to Hangout with you | food
 Good Morning MTL we are trying to square away Hackathon and BRP food order numbers this week.  We've got 5 types of diets that we are asking folks to slot themselves into... | food
 1. No Gluten | food
@@ -295,7 +241,6 @@ Trying to decipher the spec for the [message for xpolog, which is over 14 years 
 Food for thought.  At what point would we delete birdseed/bagboy topics from kafka? | 
 see Georgia | 
 The food truck menu page makes no mention of gravy. If I show up and there's no gravy.... | food
-jarvis food | 
 Today's food truck is Los Dos Bros Mexican | ordering
 i’d like to update the Hackathon Demo invite w/ food info.  Can u let me know the details - breakfast for Denver / Boulder and lunch for Raleigh?  | food
 I'm also trying to reserve the room between the breezeway and the auditorium so we can put the food in the breezeway. | 
@@ -329,12 +274,10 @@ Interesting article that Josh Stupplebeen found, good food for  |
 regarding ’s email about BRP.  I’ve already been in contact with Kyle about hackathon stuff so I’ll take that one.  I also can do the food counts again since i don’t think it’s changed much from last quarter (i’ll just check for any new vegetarian additions to the teams) | 
 did anyone hire any new people on their teams that are vegan/vegetarians?  i need to give Janelle an updated food list  | food
 Anyone willing to take the lead and call some of those places.  Our budget in the past is between $1200 and $1500 total for the space, a small amount of food and drinks. We've had as many as 100 people.  | 
-jarvis food truck | food
 Today's food truck is Suburban Weiner or Wheel & Whisk | ordering mapping
 if you don't answer in 5 min I'm going to find some food somewhere. | 
-jarvis food truck |
+END OF CLASSIFIED SET >>>>>>>>>
 Today's food truck is Cheese Louise |
-jarvis food truck |
 Today's food truck is Cheese Louise |
 food truck |
 Today's food truck is Cheese Louise |
@@ -342,42 +285,17 @@ today's food truck is not cheese louise. |
 food  truck |
 Today's food truck is Cheese Louise |
 Yea, that's a good idea too.  Do you know which ones have good food?  Rob might be a good candidate for the brewery scene, though he's doing lunch.   |
-Jarvis food truck |
 Today's food truck is Cheese Louise |
 Today's food truck is Verde |
-jarvis food truck |
 Today's food truck is Verde |
 looks like I was wrong this week about one food available in California.  |
 did it speed up or am I just slow. I haven't even gotten my food yer  |
 Ugh, I'll bet.  Glad you made it safely.  I hope you can find some good food and get some rest!   |
-jarvis food truck |
 Today's food truck is BYO |
  have any Houston recommendations for food?  I'm going to be in the "galleria" area.   |
 I'm going to go get some food, too! |
-jarvis food |
-jarvis food |
-jarvis food |
-jarvis food |
-Jarvis food |
-jarvis food |
-jarvis food |
-jarvis food your mom |
-jarvis food |
-jarvis food |
-jarvis food |
-jarvis food |
-jarvis food |
-Jarvis food |
-jarvis food |
-jarvis food |
-jarvis food |
-jarvis food |
-jarvis food |
-jarvis food |
 I had to head out a bit early to grab food a study for my exam this evening.  I can take a look bit later this evening |
-jarvis food |
 brb, must acquire food. |
-jarvis food |
 totally agree. Bonding over food and drink builds relationships and I think those are crucial to bridging geography.  |
 Hey guys - - If you haven't RSVP'd for the Ski Outing but you'd like to go - please make sure you accept the invite!  I will be ordering food and transportation on Friday based on the number of people who have accepted the event.   |
 not sure if your daughter is still selling Girl Scout Cookies, but I just found this link and thought it might help with some last minute |
@@ -430,33 +348,24 @@ Cool event from Community Cycles and Boulder Food Rescue  |
 Boulder Food Rescue event  |
 Pastries on the Path! Free coffee, rescued pastries and fruit on the bike Tomorrow, Friday, 9/30, At the intersection of the Goose Creek Bike Path and Folsom St (between Bluff and Valmont).  |
 Today's food truck is Suburban Weiner or Wheel & Whisk |
-jarvis food |
 Today's food truck is Seb's |
 Alright y'all, I'm going to go put some real food in my body (those two doughnuts are just not doing my body good right now). Have a great weekend, see you all on Monday!  |
-jarvis food |
 Today's food truck is Cheese Louise |
-jarvis food |
 Today's food truck is Seb's |
-jarvis food |
 Today's food truck is Verde |
 alrighty... Hydra Oracle Authentication story has been created. when you have a second could you please check out the description and make it sound like a 5 year old didn't write it? ;) And when you have time could you please add your TG Pass blessing? Thanks! |
-jarvis food |
 Today's food truck is Verde |
 Turley's could be fun! I would be able to actually enjoy the food rather than eat three bites b/c my nerves wouldn't allow any further consumption.  |
-jarvis food |
 Today's food truck is Verde |
-Jarvis food |
 Today's food truck is Cheese Louise |
 i will be in Monday morning so yes - let's have food please |
 Food acquired by nefarious means always tastes better, don't 'cha think? |
-jarvis food |
 Today's food truck is Verde |
 too much fast food |
 Is that even possible..... too much fast food?  |
 no amount of food is impossible if you don't try |
 is this a real and true representative of the turducken phenomenon sir? because this pic makes it look like cat food got injected into what might have been a delightful, turkey-shaped meat product ... |
 Food for thought.  It is interesting that we don’t think this page is useful at all without a board.  However, there is no where in our app that any sotry or task management pages default to boards |
-jarvis food |
 Turns out i was able to go out, order food, bring it back, and eat it well before the deploy finished... But, it is finished now and on test11cluster! |
 thanks - i need to go grab food |
 (grab food, that is.) |
@@ -511,18 +420,13 @@ Food for |
 the mexican food is also good, at least where I grew up |
 fwiw, if the hospitality package is anything like the box I had last new year's day then 200gbp is steep but not obscene. Weather was terrid that day so it was great being able to sit in the warm and watch the match. The food was amazing, and beer was included (though limited selection). It's cool having TVs in the box for replays, plus you get to go into the stadium early to watch warmups. |
 Tasterie was Shannon. She was nice and the food was decent. |
-jarvis food me |
 Today's food truck is Cheese Louise |
 going to grab food |
 want to grab food at noon? Fat guys gotta eat. |
-jarvis food me |
 Today's food truck is Suburban Weiner or Wheel & Whisk |
-jarvis food me |
 Today's food truck is Suburban Weiner or Wheel & Whisk |
-jarvis food me |
 Today's food truck is Verde |
 going to grab some food. brb |
-jarvis food me |
 Today's food truck is Suburban Weiner or Wheel & Whisk |
 food is here |
 food |
@@ -543,9 +447,7 @@ food.  brb |
 going to grab some food. BRB |
 Rally IT will be away from the office tomorrow 5/9 from 9am-1pm for Volunteerathon at Community Food Share! For very urgent issues, email |
 Sydney has an amazng harbor, and cool ferries. Melbourne has great food and culture... |
-jarvis food |
 Today's food truck is Suburban Weiner or Wheel & Whisk |
-jarvis food |
 Today's food truck is Verde |
 food on the patio |
 candied bacon donut sliders - |
@@ -554,29 +456,20 @@ food poisoning, not going to make it today, sorry |
 Anyone interested in joining Richard and I for lunch today?  We're going to Curry N Kebob (Indian food). |
 you will get free food of breakfast and lunch.... |
 Food! Yes! |
-jarvis food |
 we will call in after we grab some food |
 food |
 Today's food truck is Verde |
 WFH as well. Getting those 8 connector pages done and then back to editing WSAPI. I may also cash in on the free food. |
-jarvis food |
 Today's food truck is Seb's |
-jarvis food |
 Today's food truck is Verde |
-jarvis food |
 Today's food truck is Verde |
-jarvis food |
 Today's food truck is Cheese Louise |
-jarvis food |
 Today's food truck is Seb's |
-jarvis food |
 Today's food truck is Suburban Weiner or Wheel & Whisk |
-jarvis food |
 Today's food truck is Verde |
 Cashing in 1.5 hours of volunteer time during the work day. Running up to Longmont to pick up 200# of food for Rottie Aid. Will likely just go home after that and WFH for the last hour or so. |
 food |
 Today's food truck is Knock on Wood BBQ |
-jarvis food |
 Today's food truck is Suburban Weiner or Wheel & Whisk |
 food |
 Today's food truck is Verde |
@@ -592,18 +485,13 @@ Ron Jeffries is voices criticisms too (although he doesn't work at My bottom lin
 > SAFe wraps those ideas in a package that is designed -- intentionally in my opinion -- to appeal to today's managers and executives who do not understand Agile, but who know they have a problem to which Agile may be the solution. |
 ... |
 > SAFe is good. It's just not good enough. It provides some benefit, but endangers an organization's progress toward really high functioning. As someone who has been in the Agile movement since before it started, I do not like it. It's fast food. You can do better. |
-jarvis food |
 Today's food truck is Seb's |
-jarvis food |
 Today's food truck is Knock on Wood BBQ |
 April 11 at ·  |
 Due to unfortunate events Knock on Wood the food truck will be shut down for the time being, we will still able to complete our private engagements but street service is stalled. We will be back as soon as we can. |
 Stepping out to grab some food. |
-jarvis food |
 Today's food truck is Cheese Louise |
-jarvis food |
 Today's food truck is Cheese Louise |
-jarvis food |
 Today's food truck is Cheese Louise |
 One of the agreements  If you are late to standup; bring food/treats |
 - food is here |
@@ -634,8 +522,6 @@ ok, getting food |
 both, loose cannoning and food |
 - This #CEB article is interesting food for thought & I think it applies to our Sales Excellence  |
  "Those successful at breaking this self-reinforcing cycle learned the hard way to organize around outcomes, not initiatives.  Sales Ops should be considered the strategic execution arm of the sales organization.  Success should be defined as improvement against the strategic plan year over year.  Teams should be organized around the outcomes necessary to achieve success against that |
-jarvis food |
-jarvis food  |
 Today's food truck is Seb's |
 if my brother is half my age but twice the age of my sister in 3 years - what's my favourite food? |
 In which the WSJ manages to imply that engineers deserve free food, while marketing copywriters do not. |
@@ -648,11 +534,8 @@ Planet of the Crepes |
 Naan Disclosure Agreement |
 Entrée the Giant |
 WFH after my lunchtime boulder food rescue delivery. see you on the interwebs. have a great weekend! |
-jarvis food |
 Today's food truck is Seb's |
-jarvis food |
 Today's food truck is Cheese Louise |
-jarvis food |
 Today's food truck is Verde |
 this is how Texas does baseball |
 Jarvis gif food |
@@ -700,23 +583,18 @@ free food is everywhere |
 Food in the kitchen. Quiche |
 Cafe Rio?  |
 There’s some italian food (Bucco di poopo?) … was a little bit of pasta when we checked like 20 mins ago |
-jarvis food truck |
 Today's food truck is Verde |
-jarvis food |
 Today's food truck is BYO |
 Of course I’d be happy to! but food had to come first.   sorry…  tomorrow?   |
 for lunch tomorrow, we will be having Illegal Pete’s which is close to the office, heading there at Please note that food and beverage there is covered by us, however, anything you wish to purchase at the ball park will be a personal expense and not covered. |
 Thanks for the food and the game!! |
-jarvis food |
 Today's food truck is Los Dos Bros Mexican |
 when you come to china, I pay for food |
-jarvis food |
 Today's food truck is French Twist or Freshii Catering Wraps and Salads |
 cinnamon rolls on the food table.  warm em up a bit-  enjoy & happy Friday!   |
 Lol I don't think it is food. It's first week of spring and pollen causes allergies and flu |
 But yes i do eat the food my son drops on floor |
 not even food, doing different things, while they are outside getting sick, you should be insight getting an allergy shot |
-jarvis food |
 Today's food truck is French Twist or Freshii Catering Wraps and Salads |
 FYI  breakfast burritos on the food table- Customer Experience Week and appreciation for all you do-  all you remote &/or global team members- don't worry, there is more coming your way also!!  Have a great day! |
 (boulder specifically) I brought in bagels and scones-- but was a little later than the free giveaways from the Big Room Planning leftovers.  so, I wrapped it all up and you can plan on breakfast for Monday -  unless you want any of that later today.  On the food table-  in recognition of your awesomeness and CX week!!!   |
@@ -897,23 +775,17 @@ It's a week until our project with Boulder County where we will be building a ca
 Got plans after work today? Come to Twitter Boulder tonight to hear talk about “Breakfast Burrito Friday and Firebase " and Lisa White of Twitter talk about “Distributed Systems at A Deep Dive on the PowerTrack Streaming API Architecture”! |
 Details there (there will be |
 Good Morning All - Los Dos Bros Mexican Food Truck is outside in the Tundra parking lot now......YUM |
-jarvis food |
 Today's food truck is BYO |
-jarvis food |
 Today's food truck is Smoke Wagon BBQ |
 food |
 Today's food truck is French Twist or Freshii Catering Wraps and Salads |
-jarvis food |
 Today's food truck is Smoke Wagon BBQ |
 food |
 Today's food truck is French Twist or Freshii Catering Wraps and Salads |
 lots of leftover food from BRP is out in the South-side 3rd floor kitchen |
-jarvis food |
 Today's food truck is French Twist or Freshii Catering Wraps and Salads |
-jarvis food |
 Today's food truck is Los Dos Bros Mexican |
 I ordered some food from Hungry Buffs they should be here in a bit if you just want to let me know here and I can come down and grab it |
-jarvis food |
 Today's food truck is Los Dos Bros Mexican |
 Standby for ;) |
 Hello if anyone had money  on the KIOSK card for the old Boulder food court I need a list of names and phone #s  so Alpine can get the money back to you. |
@@ -964,7 +836,6 @@ It was cold- I wore the uggies in and home… Oh look you can’t see the food I
 Lunch, CA style #Canberra.  So much food they are almost forcing it on and me. |
 - Here is food for thought - When we call from CA phones it comes up as a private number..  I don’t answer private numbers, and nor do most people I know.  This could be somethings small and simple we could fix that may mean more people will answer our calls? |
 We even impressed an Architect at Bendigo & Adelaide Bank this week! "Thanks for organising yesterday’s session which I found very informative and refreshingly natural. I have been to a few vendor session and they were more of a sales pitch than a subject matter expertise session.  Both, David and Suzanne, were a mine of information and I was glad that they had so many real-life case-studies/examples to share with us. The topic was definitely food for thought for the Customer and Partner team."  |
-jarvis food |
 Great food for thought. |
 Food for thought why does this dashboard suggest we have 49 defects in a not looked at state.  Not 24  |
 There has been some grumbling that Rally has become a less fun place to work recently, and Mike Holm on the Gnarwhal team took the initiative to do something about that and plan an engineering celebration in Boulder. We are spending a few hundred bucks and bringing in a company that will put together a lazer tag setup, and letting people run around on the third floor of the new building to zap each other. I'm sure we will cater in some food too. |
