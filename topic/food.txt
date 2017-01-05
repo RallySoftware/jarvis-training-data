@@ -408,95 +408,95 @@ That said, not on any Mexican food joint I frequent, but hey, horse ended up in 
 You mean I can't just come out to eat the food? | food
 No work, just food. I'm trying to make up lost time. | food
 I heard food is really good but not sure if that goes for a pescatarian | food
-Boulderites, please let me know of your choice of food, I don't think catering is an option for 6 of us, so I will possibly order online and go pick up. | 
-and   |
-kindly volunteered to handle food situation for Raleigh office |
-just waiting for host to start webex...you might be out fetching food |
-I’ll be doing deploys as usual through the end of the quarter. After that, I will then have 100% of my time to work on FloBoCo. Getting really busy already. So, Justin and I will be figuring out how to get deploys out each day. I made it clear to him that going back to the old way is not the answer and he agrees. I want IE to own the button push portion of it at least, so they can eat their own dog food and hopefully make it better. I would like for testers to be able to smoke test the build picked before it goes out, so maybe we all can be notified about it and hit it as needed on Test1. ScrumMaster of the week may be the cat herder for what build to pick. Migration testing….not sure yet. Anyway, too much info already. Stay tuned... |
-I did not have a chance to chime in on this conversation, I agree with it was a weak conference. However not all conferences have 100% great tracks and we should remember that we are really far ahead of many companies in the industry with our practices, so our expectation threshold is pretty high..  |
-I was in a few tutorials that were helpful to me.  |
-All that said, food, venue, etc was really weak, too..  |
-Food for |
-the mexican food is also good, at least where I grew up |
-fwiw, if the hospitality package is anything like the box I had last new year's day then 200gbp is steep but not obscene. Weather was terrid that day so it was great being able to sit in the warm and watch the match. The food was amazing, and beer was included (though limited selection). It's cool having TVs in the box for replays, plus you get to go into the stadium early to watch warmups. |
-Tasterie was Shannon. She was nice and the food was decent. |
-Today's food truck is Cheese Louise |
-going to grab food |
-want to grab food at noon? Fat guys gotta eat. |
-Today's food truck is Suburban Weiner or Wheel & Whisk |
-Today's food truck is Suburban Weiner or Wheel & Whisk |
-Today's food truck is Verde |
-going to grab some food. brb |
-Today's food truck is Suburban Weiner or Wheel & Whisk |
-food is here |
-food |
-here's the list of food for hack deom/planning  |
-hey guys I did some playing around over the weekend, I found out why our docker containers take so long to build and why no image builds reuse the same cache.  if we fix the problem we should be able to cut our image build times substantially.  basically we are running the docker daemon in our docker builder containers (using docker-in-docker) which is not recommended because it prevents docker from using the cache for image builds (cache is destroyed when container goes away).  the recommended solution is to use the docker daemon running on the host machine from the containers.  this is achieved by removing DIND and mapping a  I think its a relatively easy fix, but it requires modification of the jenkins-docker-slave-plugin we use to allow mapping volumes when a container starts.  I think i have the changes needed but was unable to test it because I couldn't deploy a new version of the plugin for testing.  anyway its just some food for thought at this point |
-blog post with more information about why we shouldn't be using DIND in our CI system (written by the author of |
-I'm sorry that this is my first contribution to the flow, but I promised the Orkin man that I would tell everyone his message...if you have food in your desk, you should put it inside tupperware.  As I think you all know, many of us have had visits from some furry friends who are eating things like our granola bars and other foods we have hidden in our desks.  He put down several traps around our office area, so I wanted you to have the heads up about this. |
-#annieism "eating our own dog food" |
-getting some food, sir. I’ll be back |
-food is here |
-still doing CIS stuff, grabbing some food. I’ll look at the Cent Templates in a bit.  |
-take food delivery and setup |
-so food is showing up between and |
-registration table and food tables |
-I’m going to go find some food as I have back to backs from … NOW’S MY CHANCE! |
-grabbing food, be back in about 1/2 hour.  |
-food.  brb |
-going to grab some food. BRB |
-Rally IT will be away from the office tomorrow 5/9 from 9am-1pm for Volunteerathon at Community Food Share! For very urgent issues, email |
-Sydney has an amazng harbor, and cool ferries. Melbourne has great food and culture... |
-Today's food truck is Suburban Weiner or Wheel & Whisk |
-Today's food truck is Verde |
-food on the patio |
-candied bacon donut sliders - |
-FOOD MENG!!!?!?! |
-food poisoning, not going to make it today, sorry |
-Anyone interested in joining Richard and I for lunch today?  We're going to Curry N Kebob (Indian food). |
-you will get free food of breakfast and lunch.... |
-Food! Yes! |
-we will call in after we grab some food |
-food |
-Today's food truck is Verde |
-WFH as well. Getting those 8 connector pages done and then back to editing WSAPI. I may also cash in on the free food. |
-Today's food truck is Seb's |
-Today's food truck is Verde |
-Today's food truck is Verde |
-Today's food truck is Cheese Louise |
-Today's food truck is Seb's |
-Today's food truck is Suburban Weiner or Wheel & Whisk |
-Today's food truck is Verde |
-Cashing in 1.5 hours of volunteer time during the work day. Running up to Longmont to pick up 200# of food for Rottie Aid. Will likely just go home after that and WFH for the last hour or so. |
-food |
-Today's food truck is Knock on Wood BBQ |
-Today's food truck is Suburban Weiner or Wheel & Whisk |
-food |
-Today's food truck is Verde |
-  food |
-food |
-Today's food truck is Seb's |
-but imagine all the food that made it into his mouth |
-Great find! Love Japanese food! |
-Ron Jeffries is voices criticisms too (although he doesn't work at My bottom line assessment is that it will be a marketing success, organizations trying it will see improvement, and some will see great improvement. |
->  |
-> And I don't like it. SAFe isn't really Agile in its heart. |
-...  |
-> SAFe wraps those ideas in a package that is designed -- intentionally in my opinion -- to appeal to today's managers and executives who do not understand Agile, but who know they have a problem to which Agile may be the solution. |
-... |
-> SAFe is good. It's just not good enough. It provides some benefit, but endangers an organization's progress toward really high functioning. As someone who has been in the Agile movement since before it started, I do not like it. It's fast food. You can do better. |
-Today's food truck is Seb's |
-Today's food truck is Knock on Wood BBQ |
-April 11 at ·  |
-Due to unfortunate events Knock on Wood the food truck will be shut down for the time being, we will still able to complete our private engagements but street service is stalled. We will be back as soon as we can. |
-Stepping out to grab some food. |
-Today's food truck is Cheese Louise |
-Today's food truck is Cheese Louise |
-Today's food truck is Cheese Louise |
-One of the agreements  If you are late to standup; bring food/treats |
-- food is here |
-please review this sheet if a) you joined the team in the last few months or b) if you developed food allergies in the last few |
-I'm not able to make it to the office today I have been up since 2am battling what I think is food poisoning  |
+Boulderites, please let me know of your choice of food, I don't think catering is an option for 6 of us, so I will possibly order online and go pick up. | food
+and   | 
+kindly volunteered to handle food situation for Raleigh office | food
+just waiting for host to start webex...you might be out fetching food | 
+I’ll be doing deploys as usual through the end of the quarter. After that, I will then have 100% of my time to work on FloBoCo. Getting really busy already. So, Justin and I will be figuring out how to get deploys out each day. I made it clear to him that going back to the old way is not the answer and he agrees. I want IE to own the button push portion of it at least, so they can eat their own dog food and hopefully make it better. I would like for testers to be able to smoke test the build picked before it goes out, so maybe we all can be notified about it and hit it as needed on Test1. ScrumMaster of the week may be the cat herder for what build to pick. Migration testing….not sure yet. Anyway, too much info already. Stay tuned... | 
+I did not have a chance to chime in on this conversation, I agree with it was a weak conference. However not all conferences have 100% great tracks and we should remember that we are really far ahead of many companies in the industry with our practices, so our expectation threshold is pretty high..  | 
+I was in a few tutorials that were helpful to me.  | 
+All that said, food, venue, etc was really weak, too..  | 
+Food for | food
+the mexican food is also good, at least where I grew up | food
+fwiw, if the hospitality package is anything like the box I had last new year's day then 200gbp is steep but not obscene. Weather was terrid that day so it was great being able to sit in the warm and watch the match. The food was amazing, and beer was included (though limited selection). It's cool having TVs in the box for replays, plus you get to go into the stadium early to watch warmups. | 
+Tasterie was Shannon. She was nice and the food was decent. | ordering
+Today's food truck is Cheese Louise | ordering
+going to grab food | food
+want to grab food at noon? Fat guys gotta eat. | food
+Today's food truck is Suburban Weiner or Wheel & Whisk | ordering
+Today's food truck is Suburban Weiner or Wheel & Whisk | ordering
+Today's food truck is Verde | ordering
+going to grab some food. brb | food
+Today's food truck is Suburban Weiner or Wheel & Whisk | ordering
+food is here | food
+food | food
+here's the list of food for hack deom/planning  | food
+hey guys I did some playing around over the weekend, I found out why our docker containers take so long to build and why no image builds reuse the same cache.  if we fix the problem we should be able to cut our image build times substantially.  basically we are running the docker daemon in our docker builder containers (using docker-in-docker) which is not recommended because it prevents docker from using the cache for image builds (cache is destroyed when container goes away).  the recommended solution is to use the docker daemon running on the host machine from the containers.  this is achieved by removing DIND and mapping a  I think its a relatively easy fix, but it requires modification of the jenkins-docker-slave-plugin we use to allow mapping volumes when a container starts.  I think i have the changes needed but was unable to test it because I couldn't deploy a new version of the plugin for testing.  anyway its just some food for thought at this point | 
+blog post with more information about why we shouldn't be using DIND in our CI system (written by the author of | 
+I'm sorry that this is my first contribution to the flow, but I promised the Orkin man that I would tell everyone his message...if you have food in your desk, you should put it inside tupperware.  As I think you all know, many of us have had visits from some furry friends who are eating things like our granola bars and other foods we have hidden in our desks.  He put down several traps around our office area, so I wanted you to have the heads up about this. | 
+#annieism "eating our own dog food" | 
+getting some food, sir. I’ll be back | food
+food is here | food
+still doing CIS stuff, grabbing some food. I’ll look at the Cent Templates in a bit.  | 
+take food delivery and setup | food
+so food is showing up between and | food
+registration table and food tables | 
+I’m going to go find some food as I have back to backs from … NOW’S MY CHANCE! | 
+grabbing food, be back in about 1/2 hour.  | food
+food.  brb | food
+going to grab some food. BRB | food
+Rally IT will be away from the office tomorrow 5/9 from 9am-1pm for Volunteerathon at Community Food Share! For very urgent issues, email | 
+Sydney has an amazng harbor, and cool ferries. Melbourne has great food and culture... | 
+Today's food truck is Suburban Weiner or Wheel & Whisk | food
+Today's food truck is Verde | food
+food on the patio | food
+candied bacon donut sliders - | fppd
+FOOD MENG!!!?!?! | food
+food poisoning, not going to make it today, sorry | 
+Anyone interested in joining Richard and I for lunch today?  We're going to Curry N Kebob (Indian food). | food
+you will get free food of breakfast and lunch.... | food
+Food! Yes! | food
+we will call in after we grab some food | food
+food | food
+Today's food truck is Verde | food
+WFH as well. Getting those 8 connector pages done and then back to editing WSAPI. I may also cash in on the free food. | 
+Today's food truck is Seb's | ordering
+Today's food truck is Verde | ordering
+Today's food truck is Verde | ordering
+Today's food truck is Cheese Louise | ordering
+Today's food truck is Seb's | ordering
+Today's food truck is Suburban Weiner or Wheel & Whisk | ordering
+Today's food truck is Verde | ordering
+Cashing in 1.5 hours of volunteer time during the work day. Running up to Longmont to pick up 200# of food for Rottie Aid. Will likely just go home after that and WFH for the last hour or so. | 
+food | food
+Today's food truck is Knock on Wood BBQ | ordering
+Today's food truck is Suburban Weiner or Wheel & Whisk | ordering
+food | food
+Today's food truck is Verde | ordering
+  food | food
+food | food
+Today's food truck is Seb's | ordering
+but imagine all the food that made it into his mouth | food
+Great find! Love Japanese food! | food
+Ron Jeffries is voices criticisms too (although he doesn't work at My bottom line assessment is that it will be a marketing success, organizations trying it will see improvement, and some will see great improvement. | 
+>  | 
+> And I don't like it. SAFe isn't really Agile in its heart. | 
+...  | 
+> SAFe wraps those ideas in a package that is designed -- intentionally in my opinion -- to appeal to today's managers and executives who do not understand Agile, but who know they have a problem to which Agile may be the solution. | 
+... | 
+> SAFe is good. It's just not good enough. It provides some benefit, but endangers an organization's progress toward really high functioning. As someone who has been in the Agile movement since before it started, I do not like it. It's fast food. You can do better. | 
+Today's food truck is Seb's | ordering
+Today's food truck is Knock on Wood BBQ | ordering
+April 11 at ·  | 
+Due to unfortunate events Knock on Wood the food truck will be shut down for the time being, we will still able to complete our private engagements but street service is stalled. We will be back as soon as we can. | 
+Stepping out to grab some food. | food
+Today's food truck is Cheese Louise | ordering
+Today's food truck is Cheese Louise | ordering
+Today's food truck is Cheese Louise | ordering
+One of the agreements  If you are late to standup; bring food/treats | 
+- food is here | food
+please review this sheet if a) you joined the team in the last few months or b) if you developed food allergies in the last few | food
+I'm not able to make it to the office today I have been up since 2am battling what I think is food poisoning  | 
 some of us are heading over to the Indian food truck for lunch around noon if anyone is interested! |
 any know where the little India food truck is? |
 the indian food truck is there now I think it was late  |
