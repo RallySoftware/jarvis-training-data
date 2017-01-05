@@ -1,0 +1,1095 @@
+Food for thought and -> |
+query for this in splunk-> |
+sourcetype=analytics-etl-console-log "Time to run"  NOT processRevisionsTask revisionQueueTask |
+the numbers are not good. bala says the SQL takes 20ms to run in prod, so what the hell is taking so long? i think that task is doing too much |
+alright i'm off for lunch.. probably to find a hamburger somewhere in cary because of our earlier conversation relating to food | mapping
+i'mgoing to get food. the sloth bacon cream kumquat thing just made me hungry | food
+Happy National Cheese day  Today, we celebrate | food
+My wife thinks we need to replace the food processor with one of these things. | food
+stepping out to get some food | food
+jarvis image me fast food wendys | food
+for [Summer 2016 Food Truck | food
+Jarvis food | food
+Today's food truck is Los Dos Bros Mexican | food
+They can sign up If it's full, he can add a few more spots and adjust the food order. | food
+there's a food truck at Tundra with fish tacos and burgers | ordering
+If alm came up the dB isn't locked. I'm grabbing food and will be back in a min. | food
+is someone available today to do a lunch interview for an internal CA candidate?   | food
+found another for  |
+if you are in Boulder there is some free food in the kitchen! | food
+Leftover pulled pork and other food outside IPA! Come and get it!  | food
+can anyone tell me the process for looking into having CA sponsor food and supplies at Women Who Code events? | food
+Great read, thanks Bob.  Lots of good food for thought ... especially Implied Consensus and Continuous Partial Attention. | 
+is anyone interested in hosting ReactJS Denver? Granicus has been hosting but we’ve been turning away people because they don’t have enough room. i co-organize the group and am between wrangling speakers and promoting the group, i don’t have enough time to also manage the venue or order food. right now it works well where Granicus has a team of devs to handle the venue (they also have secure doors) and food. if anyone here could volunteer, we could try hosting here. we don’t necessarily need to host it every month either | food
+Hey, we have a fun meetup in Boulder tomorrow at 6pm! We’ll be playing with exercism.io and you’re all welcome to join us! I *love* exercism… great way to play with code, learn things, and a great way to practice giving and receiving feedback (and support others). We’ll do system setup, a walk through of how things work, and then play (aka hack/code). RSVP on meetup or message me so I know how much food to | food
+Got plans after work today? Come to Twitter Boulder tonight to hear talk about “Breakfast Burrito Friday and Firebase " and Lisa White of Twitter talk about “Distributed Systems at A Deep Dive on the PowerTrack Streaming API Architecture”! | food
+Details there (there will be | 
+If you didn't fill out the FREE FOOD SURVEY for the Agile Central ⚡ Developers' Conference, you will have NOTHING to eat.   If you did, thanks.  If you didn't but feel you might get hungry at some point during that day, email me directly so that I can add you to the list of people that like to eat FREE FOOD. 🍔 🍦    | food 
+yo in Boulder .... Raw Vegan Gluten Free cheesecake in the O.U.T.S. are, come n git it #freefood  | food
+Food for are birthday suits formal? | 
+I know TAMs use demo an awful lot, seems like there could be benefits to a prod sandbox as well, Just food for thought | 
+Food stuffs only | food
+I'm gonna go to lunch now, back in a bit.  running to town to pick up dog food...how exciting | food
+here's more food for this thought... for deleted artifacts, I see mismatches on DefectStatus, InProgressDate, TaskStatus... (and the previously discussed _ProjectHierarchy)... and also _ItemHierarchy | 
+yeah, the food was good.  the potential for having my card # lifted, not so much | food
+stepping away for food | food
+I guess I ate the food already | food
+food time for me | food
+going to scavenge for food... back in a bit | mapping
+i may step away for a little...not feeling good...I hope I don't have food poisioning again, summer cold? | food
+idk...speaking of food poisioning...funny story.  got a gift card to a local restaurant for my b'day...to the restaurant that gave me FP. | food
+that was the credit card thing.  still no smoking gun there, just suspicions.  the food poisioning incident was the local Eye-Talian place | food
+i need food... back in a bit | food
+We need to get food, so we're heading to lunch.  You can mull over that question. | food
+need food, back in a bit | food
+lunch - have to go forage for food | food
+time for food, biab | food
+I can come in. I heard a nasty rumor there were other types of food in Raleigh, so we can verify. | food
+OK, i gotta run. sorry I couldn’t stay for more. i need me some food. | food
+- your PR comments have been addressed. food find on result.ideal | 
+no power yet. Am out getting food and charging my phone. | food
+new favorite line "You can food anything if you just eat it!" | food
+If you and want more food for thought... |
+Initiative I4047 is the holding pen for LB work we've discussed in the |
+I like monkeys. |
+The pet store was selling them for five cents a piece. I thought that odd since they were normally a couple thousand. I decided not to look a gift horse in the mouth. I bought 200. |
+I like monkeys. |
+I took my 200 monkeys home. I have a big car. I let one drive. His name was Sigmund. He was retarded. In fact, none of them were really bright. They kept punching themselves in their genitals. I laughed. Then they punched my genitals. I stopped laughing. |
+I herded them into my room. They didn't adapt very well to their new environment. They would screech, hurl themselves off of the couch at high speeds and slam into the wall. |
+Although humourous at first, the spectacle lost its novelty halfway into its third hour. |
+Two hours later I found out why all the monkeys were so they all died. No apparent reason. They all just sorta' dropped dead. Kinda' like when you buy a goldfish and it dies five hours later. Damn cheap monkeys. |
+I didn't know what to do. There were 200 dead monkeys lying all over my room, on the bed, in the dresser, hanging from my bookcase. It looked like I had 200 throw rugs. |
+I tried to flush one down the toilet. It didn't work. It got stuck. Then I had one dead, wet monkey and 199 dead, dry monkeys. |
+I tried pretending that they were just stuffed animals. That worked for a while, that is until they began to decompose. It started to smell real bad. |
+I had to pee but there was a dead monkey in the toilet and I didn't want to call the plumber. I was embarrassed. |
+I tried to slow down the decomposition by freezing them. Unfortunately, there was only enough room for two monkeys at a time so I had to change them every 30 seconds. I also had to eat all the food in the freezer so it didn't all go bad. | food
+I tried burning them. Little did I know my bed was flammable. I had to extinguish the fire. |
+Then I had one dead, wet monkey in my toilet, two dead, frozen monkeys in my freezer, and 197 dead, charred monkeys in a pile on my bed. The odour wasn't improving. |
+I became agitated at my inability to dispose of my monkeys and to use the bathroom. I severely beat one of my monkeys. I felt better. |
+I tried throwing them away but the garbage man said that the city was not allowed to dispose of charred primates. I told him that I had a wet one. He couldn't take that one either. I didn't bother asking about the frozen ones. |
+I finally arrived at a solution. I gave them out as Christmas gifts. My friends didn't know quite what to say. They pretended that they like them, but I could tell they were lying. |
+Ingrates. |
+So I punched them in the genitals. |
+I like monkeys. |
+got grooming with the gnars at 11 - 12, so food stuffs late or I can meet up with everyone wherever  | food
+jarvis food | food
+Little bit of food left in the auditorium come and get it | food
+…and if you like German food… I’d go The entire German Village area is nice actually. | mapping
+no idea what happened but I either caught the stomach bug that is going around James' daycare or I have food poisoning.  Struggling to get out of the house to get James to daycare. WAH...I wrapped up the TC roll up one so probably grab the bulk remove TC story one. | food
+man... i missed epic free food day.  denver fail. | food
+We're putting together the info for food stuffs during planning.  Could you guys let me know if you are here for both breakfast/lunch July 15th/16th.   | food
+remember, no for you | 
+jarvis food | food
+Today's food truck is Cheese Louise | ordering
+jarvis food | food
+jarvis food | food
+Today's food truck is Cheese Louise | ordering
+jarvis better food | food
+jarvis food | food
+Today's food truck is Verde | ordering
+kind of interesting find. I just noticed on a guitest run that the js-error (or something perhaps similar) showed up - Maybe this will help in reproing/debugging the issue? food for thought I guess | 
+Hey sorry to cut the pairing short, but I fell ill last night and am going to stay home today and try and keep some food down. Thanks for having me the past few days. Hopefully next time I can stay a bit longer. | 
+better food here though | food
+what are thoughts on team lunch today, with half the team MIA?  Also, FYI, I'm now on the Always Hungry diet (for a month), so I'll go to lunch but probably can't eat the food | food
+It's called Top Golf - it's driving range with video targets and food and drinks. | 
+here's the list of food for hack demo/planning | food
+jarvis food | food
+Today's food truck is Los Dos Bros Mexican | ordering
+Running late, slept through alarm, was up with food poisoning most if the night. Sorry! Will definitely be in by 10. | food
+So Keila has food poisoning, but she's severely dehydrated, so I'm running all over the place to get her meds and stuff to keep her out of the ER. I can probably get on the interview around Feel free to replace me if you prefer. | food
+Do we have someone set to facilitate planning? Should we get Kai to set up some food? | food
+we introduced Larry to Korean food for the first time and it was yummy. go Souel Garden | ordering
+Gonna go grab food for lunch later. I need two peer reviews to keep in-dev under wip, and I'm blocked on on_demand for the story in merging. on_demand keeps getting all busted up. | food
+I'm looking at some changes you guys made in ColumnBuilder.js. You're calling Rally.ui.grid.ColumnHeaderLabeler.getColumnLabel when a string is passed in. First off, it looks like it should have a lower case c. It still fails when I change that. There should probably be a unit test exercising this code in some way too. I'll be back in 20 after I grab some food. | food
+i am back from getting food if you want to pickup the hangout again | food
+I’m eating some leftovers now, but does anyone have interested in grabbing some food today? | food
+- saw woman with lots of food stuffs outside building. Not sure if she's for us or not  | food
+I will head out to get some food and bring it back. Anyone else interested?  | food
+- hackaton kickoff breakfast food has arrived.  i set it up in the auditorium | food
+since we are planned to go to Boulder on Tuesday the 14th. Last call if anyone has any food alleges or is everyone good with anything? | food
+I kind of wish we'd adopt a standard set of tasks that always follow the same build path that we could 'plugin' to. I did this before utilizing the maven lifecycle and it worked well. what happened where was clear and it had a consistent and well understood interface. food for thought i suppose. |
+ulimit - no dice.  cache clean - no dice.  how could i go about repairing the permissions correctly, if thats an issue that happens?  Im stepping away from the keyboard to grab some food but ill be back in an hour | food
+Left ya one bit of food for thought. Take it or leave it. LGTM. | 
+the churros of the future are | 
+are we doing standup or is everyone at the breakfast  | 
+for after  | 
+ there will be a BBQ in Boulder for those people attending the R&D Demo tomorrow.  Plan to attend and then grab some free food.  Must be present to win..... | food
+we're going to burger radio food truck at rayback collective. would you like to join? | food
+did we decide on lunch plans? I have a meeting to noon, but if folks want to eat earlier, don’t wait for me | food
+the for food-and-other-porn, visit | 
+heading out to | 
+come grab food if you want | food
+So I woke up this morning around 5 with food poisoning, and while the worst is over it looks like I'm also tired and shaky. Not really functional for work... I'm going to try to sleep a bit then come in between noon and 1pm. | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food me | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food me | food
+jarvis food | food
+Today's food truck is Ambrosia World Cuisine | ordering
+jarvis food | food
+Today's food truck is Cheese Louise | ordering
+jarvis food me | food
+Today's food truck is Suburban Weiner or Wheel & Whisk | ordering
+jarvis food me | food
+Today's food truck is Knock on Wood BBQ | ordering
+Food for If there are only 283 GUI tests that churro runs, can we reduce the number of threads from 25 in order to reduce the volatility of the churro guitests? There was a 58.4% failure rate today, and from what I've looked at the vast majority of failures are from almHealthCheckServices failing (e.g. alm not starting). Not sure if reducing threads would help with that... open to other suggestions as well.   | 
+dis be da One | 
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+I think we should plan a big group gathering for the sake of building morale.  Some ideas to think about Odd13 on a Friday afternoon, Food catered and hangout at the patio, Lunch at Rio or Beer Garden.  Feel free to post any other suggestions and then we should vote. | ordering
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+Jarvis food | food
+Sharks, here's some food for thought for the notification email template...  | 
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food | food
+jarvis food wot b 4 lunchylunchy | food
+Food status? | food
+jarvis randomize  | 
+new | 
+jarvis randomize  | 
+new 🐟,💰 | 
+jarvis randomize  | 
+new | 
+jarvis randomize 🐟   | 
+jarvis randomize  🐟  | 
+jarvis randomize  | 
+jarvis randomize  | 
+That was a fail on our part. Whoops. Next time will pick a restaurant that takes longer to get food from ... | delivery
+looking for thoughts on a fun team activity we could take an afternoon off to go do. Some suggestions we've had to shake your thoughts loose include... | 
+[Go Escape or [Boulder Enigma Lab Cooking me know thoughts on these or other options and we'll take a survey on which ones are the favs | food
+All are amazing options!  Maybe slight edge for Unser or Dartz (but a little bit of a drive).  Food Lab could be good too. | food
+I vote escape room! (Though the Food Lab seems cool too) | food
+We just have to tell Wade and Garston there's free food at the end of the puzzle room and we'll be out in record time | food
+… what about free food + an activity? We haven’t done a celebration in like… a year? | food
+I vote unser & food class | food
+jarvis randomize  | 
+new | 
+we are trying to square away Hackathon and BRP food order numbers this week.  We've got 5 types of diets that we are asking folks to slot themselves into... | food
+1. No Gluten Peoples | food
+2. Vegetarians | food
+3. Vegans | food
+4. Specialized Diets (don't fit into any of these previous 3 groups) | food
+5. Consumers of most All Foods | food
+Please confirm with me which one best fits you. Let me know if there are any of the Hack or BRP events you won't be at. For food order purposes, I'm going to err on the side of assuming everyone will be at all the things | food
+ALSO... If you have suggestions on where we should order from, let me know (no promises) | ordering
+one more quick question for the FOK I'd like to confirm the Enigma room on the afternoon of Thursday 3/24 - preceded  by lunch food merriment things is good for all. If not, can you let me know today, pretty please, thank you | food
+Any of those food options sound OK to me. | food
+jarvis randomize | 
+new __emptyPair__,🍰 | 
+jarvis randomize  | 
+new | 
+hi of kumquat friends, delorean has a standing meeting on friday afternoons called storytime, we just use it as technical hot talk time. I was wondering if I like, cater it with food, if you would show up and give us some run down on team plan code and churro redux code this friday | food
+(I'm jumping out to grab food before a meeting in 10 mins, back in a bit) | food
+jarvis food | food
+I'm in the office. Just going to get some food & coffee ready then I'll be able to Hangout with you | food
+Good Morning MTL we are trying to square away Hackathon and BRP food order numbers this week.  We've got 5 types of diets that we are asking folks to slot themselves into... | food
+1. No Gluten | food
+2. Vegetarians | food
+3. Vegans | food
+4. Specialized Diets (don't fit into any of these previous 3 groups) | food
+5. Consumers of most All Foods | food
+Please confirm with me which one best fits you. Let me know if there are any of the Hack or BRP events you won't be at. For food order purposes, I'm going to err on the side of assuming everyone will be at all the things | food
+ALSO... If you have suggestions on where we should order from, let me know (no promises) | ordering
+Thanks | 
+millions of years ago our ancestors travelled through blizzard-like conditions to follow the food sources | food
+well i assume the hospital up the road is open.  could i walk up there and charge some hospital food to my health insurance? | food
+food, clothing, medicine, heat, shelter.  i'm fine with that | food
+doh, food critic still complaing a bit about your last PR | food
+trying to get food figured out for BRP week.  can you guys let me know if anyone is a vegetarian, vegan, or gluten free?  thank you! | food
+Maybe a little food.  Everything went bad after 4 days with no power.  Mac and Cheese it is! | food
+We were getting food.  | food
+I am out one more day (today).  Spent all of yesterday bedridden, no food-just water, but i think that I feel a little better.  Had a gushing nosebleed in the middle of the night, looks like I slaughtered an animal in my bed.   | 
+oh, well, I do like food | food
+did they provide lunch? or do you guys have to go get food? | food
+you mind if I go grab some food at the grocery store (30min) | food
+lol it looks like food critic is counting commented lines as unused variables? | 
+you mind if I go to the grocery store for 1/2hr to grab some food? | food
+lol, no worries, eat food while walking back | food
+food | food
+I'm going to open a burger stand where every interaction with the cashier takes 20 seconds for them to respond. Your food only comes one way with no substitutions, and you pay based on how long it takes you to eat it. The name of my restaurant? Azure Resource Manager. |
+I'm going to go get some food.  I'll bring my dog to the office when it's colder (he can sleep in the truck). | food
+now food+shower+commute to office |
+ate turkey and sausage jumbalia from Twisted Pine today.  if i fall over and die due to food poisioning, bury me with my car | food
+i need food really bad can someone watch teh deploy? | food
+thanks folks, was on a drive to get some food, back online again | food
+Food for thought question.... | 
+Food for thought question..... | 
+this is happening now. Free food and fun. Drop in even if just for a 30 mins game  | food
+Save the date/time this Thurs, April 23rd from 4pm.  We are very close to finalizing a happy hour with drink and food specials put on for us from our friends at Zoe Ma Ma across the street.  It will likely include iTriage as well and will be a great time to mingle, have some amazing authentic Chinese appetizers and drinks.  If you didn't know, they recently got their liquor license and Edwin (the owner) wants Rally'rs to come hang out on his patio to help get the word out to folks walking back to their trains/buses.  Stay tuned.  Will confirm hopefully shortly.   | mapping
+looking for charities local to submit local bike charities by tomorrow! So Community Cycles, COMBA and Boulder Food Rescue. | food
+Non-work 🍩 🍺 | 
+thanks to for providing us leftovers.  free food is  | food
+Los Chingones on 24th & Larimer is a great spot.  Food is on point and it's hip and fun.  If the weather warms up, consider going to the patio upstairs.  Margs are better-than-average. | ordering
+If you guys want to eat a boatload of amazing food and dont mind paying a bit more, Fogo De Ciao is my favorite. Amazing (all you can eat) meats and a really good salad bar.  | ordering
+If you're up for other neighborhoods, Axios on Tennyson Street is the yummiest Greek food I've had in Denver and they have flaming cheese with warm pita bread!  | ordering
+aw man, I missed an entire conversation about food. I love talking about food. I've heard great things about Guard & Grace and Blackbelly Market. | ordering
+food is setup | food
+Howdy If you have not yet responded to Breakfast Survey about the Holiday breakfast but plan to attend, please fill out asap and food will be ordered at the end of the day. We are ordering based on # of responses. Currently there are only 26 responses.  | food
+last reminder for the food and white elephant sign up - may the force be with you. ^^^ | food
+Good Morning !! Holiday Breakfast is served in the Auditorium Great Food Great People. Lets spread some Holiday Cheer! | food
+I wont be there on account of it’s my birthday but if you want to bring me presents/food to work feel free |
+Here is a special promotion for CA  Find your Western Spirit and join in the fun of the National Western Stock Show.  This 16 day extravaganza honors Colorado’s Western heritage. The stock show includes professional rodeos, horse shows, mutton busting, pony rides, great food and much more!  To view a calendar of discounted events or to order tickets use the promo code NWSSCASH when ordering your tickets to receive discounted pricing!  For more information  or call 720-838-6745 |
+I let the food guy in  |
+....hey Mat, please make sure the food guys come through the main entrance for sign-in if you would. Shelby has to get them checked in prior to being in the building and also get them set up...sound good? | food
+the Places and Services team need your help on a few things. If you use the auditorium for a meeting, or as a lunchroom or breakroom...please clean up after yourself. The coaches come in expecting to host a class, not clean up. Also, we love sharing food with you, but watching folks walk off with a tub of cream cheese, a handful of bagels or a bunch of granola bars is starting to really bum us out (you know who you are, and we do too)...please be respectful of the coaches and the class attendees...we've run out of snacks and grub on occasion due to pre-meal filching, and we need it to stop. Help us help you with leftovers, and help us with the cleanup. Sound good? | food
+wondering who should get this request, so sending to you first. Could we get a table or shelf installed by the security door that comes out of the kitchen by the “service door” elevator (hopefully that makes sense)? People are always carrying hot cups of coffee and plates of food and fumbling horribly as they try to scan their badges. | 
+Hi I understand. It is also difficult for myself to carry the groceries/food/drinks through multiple doors. I would advise putting a work order in on enchant. Hope this helps! | 
+That's the one I've been planning to go with.  It's a big commitment - my biggest concern is that it's too much food and I'll have waste.  | 
+I guess that's what the office hounds are for - extra food!    Thanks, | food
+Hide yo kegs, hide yo food | food
+Our food was out on the counter at 630pm Friday, being thrown out by the cleaning crew | food
+any food that is left out on the counters they will throw out. Only the last Friday of every month it's up to us as an office to clean out our trash in the fridge. Then I go around and check the fridge and trash what does not have a sticker on it.  | food
+then somebody took our food out of the fridge and put it on the counter | food
+don’t throw out food on the first friday of the month! | food
+don’t mess with my food! | food
+If is going to work on enablement, NateC in UL mentioned the idea of using some of their getting started work (similar to what GhostSharks did this quarter).  Food for thought. |
+OR, we can add a new feature that’s a master toggle for all labs to be enabled all the time. Food for thought. | 
+Yeah we should celebrate!  That cooking class would be fun.  Also would be up for hiking, go-carts,  Other ideas | 
+so down for food labs | food
+Hiking and fancy food? | food
+I'm thinking hiking + this coming Monday since it's supposed to be 70 + beautiful. 🎺 | 
+Sound good?  Preference for timing?  Our calendars are below so I'm thinking lunch + early afternoon OR late afternoon + early dinner. | 
+Suggestions for food?  It can be way fancier than vegetables since hiking is | 
+Monday may actually be too sloppy with all this snow so may end up waiting a bit anyways.  I'll still take suggestions for food + timing though.  If I hear nothing, I'll just 🎺 and | 
+ Moved the to Friday.  If you have preferences on food other than Oak speak up.  I'm thinking we can decide on the specific hike at lunch on Friday but it'll probably be something close by to avoid ⛄️. | 
+and some of the food will probably have milk, some of the food will probably have eggs, | food
+Trying to decipher the spec for the [message for xpolog, which is over 14 years old and contains many gems | 
+    6. Security Considerations | 
+     | 
+       An odor may be considered to be a message that does not require any | 
+       acknowledgement.  People tend to avoid bad odors but are drawn to | 
+       odors that they associate with good food.  The acknowledgement of the | 
+       receipt of the odor or scent is not required and indeed it may be the | 
+       height of discretion to totally ignore some odors.  | 
+Food for thought.  At what point would we delete birdseed/bagboy topics from kafka? | 
+see Georgia | 
+The food truck menu page makes no mention of gravy. If I show up and there's no gravy.... | food
+jarvis food | 
+Today's food truck is Los Dos Bros Mexican | ordering
+i’d like to update the Hackathon Demo invite w/ food info.  Can u let me know the details - breakfast for Denver / Boulder and lunch for Raleigh?  | food
+I'm also trying to reserve the room between the breezeway and the auditorium so we can put the food in the breezeway. | 
+Apparently Raleigh food was underwhelming. | food
+Sounds like that was enough. I won't ask to increase the amount of food for tomorrow. Thanks for the feedback! | food
+Alright....I'll remove the Guild meeting from the Calendar and we'll chat with you at at the 10am/12pm tomorrow. We all get to see what LauraH has for lunch!! | 
+You could get some free food and snacks??? | food
+does the food truck still show up in Boulder? | food
+need your food orders for today - | food
+I will be back in 15 minutes with the food. | food
+One other things thoughts on getting counts for the food from the teams that are minus a Scrum Master? Specifically PAAS, MTL | food
+Can someone post the link to the Hack & BRP Food survey, please? | food
+- it looks like the  food survey file no longer exists - | food
+Yes, that's my recollection as well.  I believe I signed up to own the food for events, so I'll take this on. | food
+That would be great! We'll meet in the main kitchen to start moving food over at 11am | food
+heads up... we did not count CWM in the food numbers for lunch today but they were invited to it because they used the Engineering All distro group. I don't imagine we can do anything about it at this point, except pray their is enough food to go around | food
+Thanks for the heads up gwen - that's another point in the "fix our distro lists" column.  I believe there will be enough food. | food
+I just spoke with Janelle - there may not be enough food for everyone, so she asked that anyone who is not participating in the demo to wait for leftovers.  Same thing will apply for the BRP meals. | food
+I do think we should gently ask people to not take food and go back to their desks.  I've seen that happen today and the last couple of meetings.  Not that I want to be a hall monitor but it comes across a certain way. | food
+Janelle just came to me a moment ago saying that people from the 1st floor took some food today and she's very concerned about BRP.  How can we send a message to the building asking people to withhold unless they are participating? | food
+Anyone interested in joining Richard and I for lunch today at noon?  We're going to Curry N Kebob (Indian food). | ordering mapping
+Full On September 23rd we are hosting the second annual Agile Central Developers’ Conference. The conference is a forum where we can meet as a software community and learn from each other. Similar to last year we'll Webex and LifeSize all presentations to accommodate participation by all Agile Central sites. | 
+The day will be a mix of short (15 min) and long (45 minute) time slots. We have a great lineup of speakers and topics this year. The schedule and brief description of the talks can be found here. Any changes or information about the conference will be updated on this site. | 
+Breakfast and lunch will be provided in all Agile Central offices. Survey to come so that we can have an accurate head count for Feel free to update your talk description and add links to any resources you have here. | food
+is food for tomorrow night ordered yet? if so, what are the details (i.e. where is it coming from? what time? etc) | food
+We do have refreshments and often pizza or some food. It is sponsored by attendees and often CA. usually abut $200-300/mtg | food
+- what is your budget for the food at meet ups and about how many people attend each meet up? Thanks for the info.  | food
+Actually it is NOT sponsored by the attendees sorry for that we got food sponsorship from CA Recruiting (Beth Finger is the contact we dealt with) our budget for the year was around $2500 / $3000 | food
+on one occasion when we had someone else host (Galvinize) they offered to sponsor the food for that time so we let them... we try to keep the per event food to about 250 like Lieschen said | food
+Interesting article that Josh Stupplebeen found, good food for  | 
+regarding ’s email about BRP.  I’ve already been in contact with Kyle about hackathon stuff so I’ll take that one.  I also can do the food counts again since i don’t think it’s changed much from last quarter (i’ll just check for any new vegetarian additions to the teams) | 
+did anyone hire any new people on their teams that are vegan/vegetarians?  i need to give Janelle an updated food list  | food
+Anyone willing to take the lead and call some of those places.  Our budget in the past is between $1200 and $1500 total for the space, a small amount of food and drinks. We've had as many as 100 people.  | 
+jarvis food truck | food
+Today's food truck is Suburban Weiner or Wheel & Whisk | ordering mapping
+if you don't answer in 5 min I'm going to find some food somewhere. | 
+jarvis food truck |
+Today's food truck is Cheese Louise |
+jarvis food truck |
+Today's food truck is Cheese Louise |
+food truck |
+Today's food truck is Cheese Louise |
+today's food truck is not cheese louise. |
+food  truck |
+Today's food truck is Cheese Louise |
+Yea, that's a good idea too.  Do you know which ones have good food?  Rob might be a good candidate for the brewery scene, though he's doing lunch.   |
+Jarvis food truck |
+Today's food truck is Cheese Louise |
+Today's food truck is Verde |
+jarvis food truck |
+Today's food truck is Verde |
+looks like I was wrong this week about one food available in California.  |
+did it speed up or am I just slow. I haven't even gotten my food yer  |
+Ugh, I'll bet.  Glad you made it safely.  I hope you can find some good food and get some rest!   |
+jarvis food truck |
+Today's food truck is BYO |
+ have any Houston recommendations for food?  I'm going to be in the "galleria" area.   |
+I'm going to go get some food, too! |
+jarvis food |
+jarvis food |
+jarvis food |
+jarvis food |
+Jarvis food |
+jarvis food |
+jarvis food |
+jarvis food your mom |
+jarvis food |
+jarvis food |
+jarvis food |
+jarvis food |
+jarvis food |
+Jarvis food |
+jarvis food |
+jarvis food |
+jarvis food |
+jarvis food |
+jarvis food |
+jarvis food |
+I had to head out a bit early to grab food a study for my exam this evening.  I can take a look bit later this evening |
+jarvis food |
+brb, must acquire food. |
+jarvis food |
+totally agree. Bonding over food and drink builds relationships and I think those are crucial to bridging geography.  |
+Hey guys - - If you haven't RSVP'd for the Ski Outing but you'd like to go - please make sure you accept the invite!  I will be ordering food and transportation on Friday based on the number of people who have accepted the event.   |
+not sure if your daughter is still selling Girl Scout Cookies, but I just found this link and thought it might help with some last minute |
+So 4.9.14 (2 weeks from today) is Rally's B-Day (the 4th Anniversary of becoming a B Corp).  The CSR team is putting on a shindig for it and you guys are going to have your own party with food and prizes (I already purchased the prizes from other Washington B Corps). Anywho, the presentation will be 12 noon PST, aka lunch time.  I totally understand what it's like to have to tune into meetings at lunchtime (All Hands are ALWAYS noon EST). While the other offices are doing a snack, I'm wondering if you all would prefer pizza to a snack that day. Let me know if you have any thoughts on this |
+what's the name of the food delivery place you guys have that delivers from local restaurants? I forgot.  You are getting food delivered for the Seaspin meeting tomorrow.  Food (from Jimmy Johns) is being delivered at 5pm.  On 4/9 you will have lunch hor dourves delivered (I made a note to make sure they don't make anything with nuts or bell peppers) and you will also have food delivered for a SAFe meetup.  |
+For the foodies of the group - Food truck rodeo is coming up in early May (also - check out Trucktoberfest at the UW north parking lot)  |
+Let me know if your food doesn't come by (if it's not already there)  |
+food got here around so we are good to go |
+If you have a restaurant that you like, that serves a wide variety of food (food for the health conscious, vegetarians, those just looking for some good grub, etc), CATERS (family style dishes) and DELIVERS, please either 1) add the menu to the Kirkland Restaurant Menu folder in the drive 2) send me the name.  Rally Workplace Services is committed to finding foods that you all enjoy AND within our budget.  Also, thank you for understanding that we can not please everyone and the wide variety of food preferences and diet practices that exist company wide.  Thank you for your help! I look forward to trying out some new options in the near future |
+Catering Here's a deli from Carillon Point that I'm familiar with that delivers.  I believe that our budget is $8.50 pp but they (Poppin Jay's) can help us be creative by mixing 1/2 sandwiches with a salad, hot dish, etc. They make all of their own food, fresh and can provide gluten free bread. I'll take a look at PCC and Metro as well. Does anyone else have other ideas?  |
+Hey, health food! |
+Hey I'm about to order food for Thursday.  I know some of you are bringing little ones so I'm Pizza & Salad (from Zeeks) OR sandwich wraps (Goldbergs doesn't give option for lettuce wraps but there would be wraps for vegetarians)? Catering trays run a little too pricey for this event so we need to keep it simple. Therefore, please don't throw another option out unless 1. you know they deliver 2. they have reasonably priced food 3. The food is kid friendly and simple.  If you have strong opinions here let me know.  I need to order in the next hour  |
+was there food ordered for Hackathon? I ordered from EZcater. Goldberg's Deli |
+Joe and I are here in the lobby, but heading out for food (hungry!) |
+Fairly accurate, but the food items in the cartoon aren't covered in a white blanket of mold. |
+To the #hipsters posting Instagrams of your food, I present |
+anyway, I'm going to run out for some food |
+ok, I'm grabbing some food before our meeting at 1 |
+and there is a food truck outside |
+Ok, I am going to drop off for about an hour, I need to get some food ready for the kids and I will join you all back.  |
+I'm stepping out for food before the RSU ABCs thing at |
+i’ll be a few minutes late to planning.. need to grab food |
+I'm fighting some food poisoning from the weekend, so I won't be in today |
+we're not comfortable just extending an offer. Lunch seems like a low cost way of doing a quick check. Also, free food. |
+I've got food poisoning - will try to get online a little later. Thanks for all the work on the ATT bug. |
+for those who came for BLTs, we’d love to get your feedback! - |
+I’m headed to grab food, but around all day if you want another set of eyes on your thoughts. Obviously if you post in here you’ll get more than just another set, so can’t wait to see what you’re thinking! |
+For our offsite lunch on Wednesday, any food restrictions or preferences I should be aware of (veggie, vegan, gluten free, etc.?) |
+That's very sweet, but I'm ok on available food. I just need to be able to actually swallow.  |
+Haha. Pretty mine is from food.  |
+keep us posted with all your food blogging. |
+here's some food for thought on design |
+thanks for sharing! The new job looks like a fun one. Do you get food perks too? Hopefully our paths will cross someday in the future, keep in touch! |
+I got food poisoning this weekend, and I'm still feeling a bit icky. I'll be working from home too. |
+Free food!  |
+Yes! I am here, I think everyone else is still getting food.  |
+free food for Hack kickoff in the new building on the first floor |
+I got food poisoning or something just as bad on my flight out here last night. I'm going to try and nurse myself back to health and make it in this afternoon.  |
+Looks good Presumably you can’t search closed projects without searching across the workspace which is why that option is disabled? I can look through our icons to see if I can find a better one. My only concern would be that searching closed projects would (presumably) be a pretty rare use case, so it might be nice to make the option less prominent in the UI (but I’m not sure how to do that…just food for thought). Also, when a project is closed, are it’s items “recycled” or do they remain active? |
+can someone in the office today pick up my interview lunch I'm scheduled on? It's with Rob, and I'm sure he'd be amenable to good food somewhere |
+brb food |
+Gotta stop at JJ on the drive in for lunch. I plan to arrive early, but add a standard deviation for food time  |
+No need for response. It is food for thought… and maybe guidance on future work |
+In which the WSJ manages to deify engineers and insult marketing copywriters in the same breath. In one group deserves free food, and the other is utterly replaceable. |
+There’s a fun cycling -elated event happening tomorrow night in Longmont.  Cruiser ride, food trucks, live music and Oskar Blues beer.  Great family event! |
+Page Two, chocolate place, Celestial(no food), Whole Foods, YMCA, Community Cycle, Alchemist, Survey Gizmo.  about 5000 calories consumed, a few hundred burned |
+so bloated from all the food, not very photogenic, but I’ll be there.  |
+I'm planning on riding the BMA sufferfest on Sept. 6th is else going? There's food, beer, and music after the ride, and it's an all around good time.  |
+Cool event from Community Cycles and Boulder Food Rescue  |
+Boulder Food Rescue event  |
+Pastries on the Path! Free coffee, rescued pastries and fruit on the bike Tomorrow, Friday, 9/30, At the intersection of the Goose Creek Bike Path and Folsom St (between Bluff and Valmont).  |
+Today's food truck is Suburban Weiner or Wheel & Whisk |
+jarvis food |
+Today's food truck is Seb's |
+Alright y'all, I'm going to go put some real food in my body (those two doughnuts are just not doing my body good right now). Have a great weekend, see you all on Monday!  |
+jarvis food |
+Today's food truck is Cheese Louise |
+jarvis food |
+Today's food truck is Seb's |
+jarvis food |
+Today's food truck is Verde |
+alrighty... Hydra Oracle Authentication story has been created. when you have a second could you please check out the description and make it sound like a 5 year old didn't write it? ;) And when you have time could you please add your TG Pass blessing? Thanks! |
+jarvis food |
+Today's food truck is Verde |
+Turley's could be fun! I would be able to actually enjoy the food rather than eat three bites b/c my nerves wouldn't allow any further consumption.  |
+jarvis food |
+Today's food truck is Verde |
+Jarvis food |
+Today's food truck is Cheese Louise |
+i will be in Monday morning so yes - let's have food please |
+Food acquired by nefarious means always tastes better, don't 'cha think? |
+jarvis food |
+Today's food truck is Verde |
+too much fast food |
+Is that even possible..... too much fast food?  |
+no amount of food is impossible if you don't try |
+is this a real and true representative of the turducken phenomenon sir? because this pic makes it look like cat food got injected into what might have been a delightful, turkey-shaped meat product ... |
+Food for thought.  It is interesting that we don’t think this page is useful at all without a board.  However, there is no where in our app that any sotry or task management pages default to boards |
+jarvis food |
+Turns out i was able to go out, order food, bring it back, and eat it well before the deploy finished... But, it is finished now and on test11cluster! |
+thanks - i need to go grab food |
+(grab food, that is.) |
+Freedom food  |
+food stuffs |
+I will be sending lunch updates from Turkey in August. Get ready for kebobs and all the good stuff hmm food stuffs... |
+That does not look like a food related update. |
+Sounds good, thanks. I don't see any issues and still need to test the IEs. I will pick up food and come back to it. One question though, is the color of the gear icon a little faded as in in active state, on purpose?  |
+I will head out to grab food but I can pull it once we talk about the automated tests you wrote.  |
+This is the early announcement of food in the secret kitchen |
+- food is here |
+alright I'm going to go eat some food and walk penny. I'll be back before the town hall |
+nice! they have good food |
+please review this sheet if a) you joined the team in the last few months or b) if you developed food allergies in the last few months. |
+someone removed all my food allergies |
+I did a sort but checked and it seemed to keep the food allergies |
+then it is a good food place. |
+I'm working from home today - I got food poisoning this weekend, and I'll still feeling a bit off. |
+But if my calendar is open with enough time for me to buy food first that works.  |
+It's the little things that make life good. Like how salt brings out all the other flavors in food. |
+I come bearing food and dessert in the lobby! Can someone bring me up? |
+any food restrictions, preferences, allergies in NOTOK?   |
+so far these are the ideas on team outing   |
+- Weekly Friday lunches together |
+- Team trip to Japan before or after Doug's hunting trip |
+- (some other frequency less than weekly) friday lunches |
+- Any activity that doesn't involve stuffing food in my face. |
+- Hiking  |
+Do you have any other additions? If not let's vote on some and pick a day for an activity..  |
+That said, who is up for lunch on Friday, Sept. 16th?  |
+this morning I saw a Mexican food truck serving breakfast on the other side of Union Station. Any interest in wandering over there for breakfast for Monday morning’s teaming? (I can ride by Monday morning to verify it is there.) |
+And I will bring breakfast for the last teaming meeting of the quarter.. Gozleme, that is.  |
+I failed to mention it earlier so we can do the Mexican food truck on Monday and I can bring Gozleme on the 19th |
+you want food? |
+you like food? |
+I will go get some food and pull it.  |
+Best user test "We surveyed people on whether or not they’d care if their 3D printed banana food was brown, and 100% of respondents said “What the hell is 3d printed banana food?” which I’m taking as a |
+ok…maybe per diem for food might persuade me a bit |
+That said, not on any Mexican food joint I frequent, but hey, horse ended up in a lot of ‘beef’ products last year in the EU. |
+You mean I can't just come out to eat the food? |
+No work, just food. I'm trying to make up lost time. |
+I heard food is really good but not sure if that goes for a pescatarian |
+Boulderites, please let me know of your choice of food, I don't think catering is an option for 6 of us, so I will possibly order online and go pick up. |
+and   |
+kindly volunteered to handle food situation for Raleigh office |
+just waiting for host to start webex...you might be out fetching food |
+I’ll be doing deploys as usual through the end of the quarter. After that, I will then have 100% of my time to work on FloBoCo. Getting really busy already. So, Justin and I will be figuring out how to get deploys out each day. I made it clear to him that going back to the old way is not the answer and he agrees. I want IE to own the button push portion of it at least, so they can eat their own dog food and hopefully make it better. I would like for testers to be able to smoke test the build picked before it goes out, so maybe we all can be notified about it and hit it as needed on Test1. ScrumMaster of the week may be the cat herder for what build to pick. Migration testing….not sure yet. Anyway, too much info already. Stay tuned... |
+I did not have a chance to chime in on this conversation, I agree with it was a weak conference. However not all conferences have 100% great tracks and we should remember that we are really far ahead of many companies in the industry with our practices, so our expectation threshold is pretty high..  |
+I was in a few tutorials that were helpful to me.  |
+All that said, food, venue, etc was really weak, too..  |
+Food for |
+the mexican food is also good, at least where I grew up |
+fwiw, if the hospitality package is anything like the box I had last new year's day then 200gbp is steep but not obscene. Weather was terrid that day so it was great being able to sit in the warm and watch the match. The food was amazing, and beer was included (though limited selection). It's cool having TVs in the box for replays, plus you get to go into the stadium early to watch warmups. |
+Tasterie was Shannon. She was nice and the food was decent. |
+jarvis food me |
+Today's food truck is Cheese Louise |
+going to grab food |
+want to grab food at noon? Fat guys gotta eat. |
+jarvis food me |
+Today's food truck is Suburban Weiner or Wheel & Whisk |
+jarvis food me |
+Today's food truck is Suburban Weiner or Wheel & Whisk |
+jarvis food me |
+Today's food truck is Verde |
+going to grab some food. brb |
+jarvis food me |
+Today's food truck is Suburban Weiner or Wheel & Whisk |
+food is here |
+food |
+here's the list of food for hack deom/planning  |
+hey guys I did some playing around over the weekend, I found out why our docker containers take so long to build and why no image builds reuse the same cache.  if we fix the problem we should be able to cut our image build times substantially.  basically we are running the docker daemon in our docker builder containers (using docker-in-docker) which is not recommended because it prevents docker from using the cache for image builds (cache is destroyed when container goes away).  the recommended solution is to use the docker daemon running on the host machine from the containers.  this is achieved by removing DIND and mapping a  I think its a relatively easy fix, but it requires modification of the jenkins-docker-slave-plugin we use to allow mapping volumes when a container starts.  I think i have the changes needed but was unable to test it because I couldn't deploy a new version of the plugin for testing.  anyway its just some food for thought at this point |
+blog post with more information about why we shouldn't be using DIND in our CI system (written by the author of |
+I'm sorry that this is my first contribution to the flow, but I promised the Orkin man that I would tell everyone his message...if you have food in your desk, you should put it inside tupperware.  As I think you all know, many of us have had visits from some furry friends who are eating things like our granola bars and other foods we have hidden in our desks.  He put down several traps around our office area, so I wanted you to have the heads up about this. |
+#annieism "eating our own dog food" |
+getting some food, sir. I’ll be back |
+food is here |
+still doing CIS stuff, grabbing some food. I’ll look at the Cent Templates in a bit.  |
+take food delivery and setup |
+so food is showing up between and |
+registration table and food tables |
+I’m going to go find some food as I have back to backs from … NOW’S MY CHANCE! |
+grabbing food, be back in about 1/2 hour.  |
+food.  brb |
+going to grab some food. BRB |
+Rally IT will be away from the office tomorrow 5/9 from 9am-1pm for Volunteerathon at Community Food Share! For very urgent issues, email |
+Sydney has an amazng harbor, and cool ferries. Melbourne has great food and culture... |
+jarvis food |
+Today's food truck is Suburban Weiner or Wheel & Whisk |
+jarvis food |
+Today's food truck is Verde |
+food on the patio |
+candied bacon donut sliders - |
+FOOD MENG!!!?!?! |
+food poisoning, not going to make it today, sorry |
+Anyone interested in joining Richard and I for lunch today?  We're going to Curry N Kebob (Indian food). |
+you will get free food of breakfast and lunch.... |
+Food! Yes! |
+jarvis food |
+we will call in after we grab some food |
+food |
+Today's food truck is Verde |
+WFH as well. Getting those 8 connector pages done and then back to editing WSAPI. I may also cash in on the free food. |
+jarvis food |
+Today's food truck is Seb's |
+jarvis food |
+Today's food truck is Verde |
+jarvis food |
+Today's food truck is Verde |
+jarvis food |
+Today's food truck is Cheese Louise |
+jarvis food |
+Today's food truck is Seb's |
+jarvis food |
+Today's food truck is Suburban Weiner or Wheel & Whisk |
+jarvis food |
+Today's food truck is Verde |
+Cashing in 1.5 hours of volunteer time during the work day. Running up to Longmont to pick up 200# of food for Rottie Aid. Will likely just go home after that and WFH for the last hour or so. |
+food |
+Today's food truck is Knock on Wood BBQ |
+jarvis food |
+Today's food truck is Suburban Weiner or Wheel & Whisk |
+food |
+Today's food truck is Verde |
+  food |
+food |
+Today's food truck is Seb's |
+but imagine all the food that made it into his mouth |
+Great find! Love Japanese food! |
+Ron Jeffries is voices criticisms too (although he doesn't work at My bottom line assessment is that it will be a marketing success, organizations trying it will see improvement, and some will see great improvement. |
+>  |
+> And I don't like it. SAFe isn't really Agile in its heart. |
+...  |
+> SAFe wraps those ideas in a package that is designed -- intentionally in my opinion -- to appeal to today's managers and executives who do not understand Agile, but who know they have a problem to which Agile may be the solution. |
+... |
+> SAFe is good. It's just not good enough. It provides some benefit, but endangers an organization's progress toward really high functioning. As someone who has been in the Agile movement since before it started, I do not like it. It's fast food. You can do better. |
+jarvis food |
+Today's food truck is Seb's |
+jarvis food |
+Today's food truck is Knock on Wood BBQ |
+April 11 at ·  |
+Due to unfortunate events Knock on Wood the food truck will be shut down for the time being, we will still able to complete our private engagements but street service is stalled. We will be back as soon as we can. |
+Stepping out to grab some food. |
+jarvis food |
+Today's food truck is Cheese Louise |
+jarvis food |
+Today's food truck is Cheese Louise |
+jarvis food |
+Today's food truck is Cheese Louise |
+One of the agreements  If you are late to standup; bring food/treats |
+- food is here |
+please review this sheet if a) you joined the team in the last few months or b) if you developed food allergies in the last few |
+I'm not able to make it to the office today I have been up since 2am battling what I think is food poisoning  |
+some of us are heading over to the Indian food truck for lunch around noon if anyone is interested! |
+any know where the little India food truck is? |
+the indian food truck is there now I think it was late  |
+- ¿What is queso? (in the Rally/CA sense, not in the food sense...) |
+OK, it seems that taco works w/ node 5.10, 5.11, etc.  I was accidently running probar tests (wrong command at the wrong directory, and suddenly you’re out of delicious Mexican street food). |
+I am thinking about getting some Anyone want to grab lunch? |
+because I'm going to Boulder tomorrow and you are all having the best food day in Denver EVER |
+working with Janelle on food for big room planning.  are there any vegans, vegetarians, gluten free, etc people on the team? |
+any other food restrictions on the |
+well done ! I commend your bravery although you didn’t attempt the food.  Welcome to the Colorado Elite! Did they hand you your CO membership card on the way out? or do you still have to buy furniture at American Furniture Warehouse before you can get it? |
+are you close? I'm gettin' hungry  |
+  sorry  - just got back from picking up food |
+sure I’d eat food and drink booze |
+I mean, you can eat food and drink booze |
+We have confirmed the date, I have a venue but I'm waiting for a call from the dude today about food. I was thinking J&L Distillery but only if we have a food option. Otherwise my next default would be to do a brewery |
+I totally spaced that I have a hair appointment tomorrow at 10AM - I'll be done before planning at noon.  do you want to plan to order some food that I could pickup on my way in? |
+The vegan brought her own food  |
+I have to find some food now, I’ll be back in a few.  |
+going to find food |
+grabbing food I’ll be back in a few |
+and that tells me I am thinking of food too much |
+ok, getting food |
+both, loose cannoning and food |
+- This #CEB article is interesting food for thought & I think it applies to our Sales Excellence  |
+ "Those successful at breaking this self-reinforcing cycle learned the hard way to organize around outcomes, not initiatives.  Sales Ops should be considered the strategic execution arm of the sales organization.  Success should be defined as improvement against the strategic plan year over year.  Teams should be organized around the outcomes necessary to achieve success against that |
+jarvis food |
+jarvis food  |
+Today's food truck is Seb's |
+if my brother is half my age but twice the age of my sister in 3 years - what's my favourite food? |
+In which the WSJ manages to imply that engineers deserve free food, while marketing copywriters do not. |
+I’m in & have several food ideas, depending on what we want. |
+training for an hour with boulder food rescue; will miss standup. working on value stream stuff |
+Need to get those creative juices flowing today? Just in time for lunch, here’s a selection of deliciously pun-filled food truck [name (guessing has some of her Damacy |
+Get Quiche Or Die Tryin' |
+What About Kebab? |
+Planet of the Crepes |
+Naan Disclosure Agreement |
+Entrée the Giant |
+WFH after my lunchtime boulder food rescue delivery. see you on the interwebs. have a great weekend! |
+jarvis food |
+Today's food truck is Seb's |
+jarvis food |
+Today's food truck is Cheese Louise |
+jarvis food |
+Today's food truck is Verde |
+this is how Texas does baseball |
+Jarvis gif food |
+You should do that. All food at my desk is fair game. I only ask that in my absence you direct all snarcasm to Ben. |
+in case you were not on the  Team, |
+Please join the inside sales management team this Thursday for a Q4 kickoff and happy hour!  I'm still working out the logistics, but you can expect some free drinks and food at a local brewery in Boulder.  Sorry for the late  Things got a little crazy last week as we wrapped up the quarter. |
+Denver  I sincerely hope you'll consider joining us in Boulder and I promise our next event will be Denver based. |
+And  I'm using a couple new email aliases, so there's a chance I missed someone on the distribution  Please help spread the word so all our inside sales colleagues are aware(especially Bill Swisher whom I managed to skip last time we did an event)! |
+Thanks! |
+-Doug |
+ - Jaime is out sick today.  Turns out she didn't have food poisoning yesterday; it was the beginning of the flu/virus/something nasty.   |
+ Will there be free food?  ;-) |
+No cake but there will be beverages and food! |
+I'm working at NISA in St. Louis this week.  The have a couple of pretty neat perks.  The first is they have a really nice gym/workout center with showers located in their office.  The key one is they provide breakfast and lunch to employees at no cost.  They have their own small cafeteria where they have a salad bar and 3 different food stations.  The only other company I've seen free meals was Northwestern Mutual in Milwaukee.   |
+food is ready  |
+Can you get me one?  |
+food |
+I just saw Beth walk in with cupcakes  |
+Saw some fancy-looking people walking around so there may be at some time today (not in the auditorium) |
+Alright lay it on am I missing? |
+ is the food still in the noobie room? |
+"If I see chicken I'm getting in line" |
+"Garston's going to be like, awww, it's too big" -  |
+TPEE has cake in their planning meeting (going on now).  Be on the lookout  |
+"Everything was working and it was 5 minutes till 🐔" -  |
+"I've been waiting 2 months for that 🐔" -  |
+rick said food is open  |
+"Forgot this was champagne, I was drinking it like water" -  |
+"One good thing about this predictive typing thing is that I talk about grocery stores a lot..." -  |
+--> 🏥 via 🚑  or 🚎  |
+The food wins  |
+🍣  |
+I hadn't had Efrain before, thanks Richard  |
+1) Alfalfa's, 1651 Broadway |
+2) St. Julien Hotel and Spa, 900 Walnut Street |
+3) Boulder Dushanbe Teahouse, 1770 13th Street |
+4) BVSD Food Truck (7am - only), 1604 Arapahoe Ave, Boulder, CO 80302 |
+5) Moe's Bagels, 3075 Arapahoe |
+6) Community Cycles and Boulder Food Rescue, 2805 Wilderness Place #1000 |
+7) Rallysport Health & Fitness Club, 2727 29th Street, Boulder, CO 80301 |
+8) CAAC |
+small amount of food (sandwiches, fruit, bagels, salad) up in the upstairs kitchen next to pearl jam |
+bundt 🍰 in the kitchen  |
+free food is everywhere |
+Food in the kitchen. Quiche |
+Cafe Rio?  |
+There’s some italian food (Bucco di poopo?) … was a little bit of pasta when we checked like 20 mins ago |
+jarvis food truck |
+Today's food truck is Verde |
+jarvis food |
+Today's food truck is BYO |
+Of course I’d be happy to! but food had to come first.   sorry…  tomorrow?   |
+for lunch tomorrow, we will be having Illegal Pete’s which is close to the office, heading there at Please note that food and beverage there is covered by us, however, anything you wish to purchase at the ball park will be a personal expense and not covered. |
+Thanks for the food and the game!! |
+jarvis food |
+Today's food truck is Los Dos Bros Mexican |
+when you come to china, I pay for food |
+jarvis food |
+Today's food truck is French Twist or Freshii Catering Wraps and Salads |
+cinnamon rolls on the food table.  warm em up a bit-  enjoy & happy Friday!   |
+Lol I don't think it is food. It's first week of spring and pollen causes allergies and flu |
+But yes i do eat the food my son drops on floor |
+not even food, doing different things, while they are outside getting sick, you should be insight getting an allergy shot |
+jarvis food |
+Today's food truck is French Twist or Freshii Catering Wraps and Salads |
+FYI  breakfast burritos on the food table- Customer Experience Week and appreciation for all you do-  all you remote &/or global team members- don't worry, there is more coming your way also!!  Have a great day! |
+(boulder specifically) I brought in bagels and scones-- but was a little later than the free giveaways from the Big Room Planning leftovers.  so, I wrapped it all up and you can plan on breakfast for Monday -  unless you want any of that later today.  On the food table-  in recognition of your awesomeness and CX week!!!   |
+Yeah it started just before that ... food poisoning I think  |
+hi all. I wanted to give everyone an update on Streeter. Sounds like what he thought was food poisoning was actually a horrible virus. The virus apparently caused a heart attack last night (he went to ER (Good Samaritan) and they admitted him. He had a cardiac catheter procedure today which resulted in the above update.  He is staying another night at GS tonight. Keep him in your thoughts please.  I'll provide more info/updates as I get them. He is doing ok at the moment. Thanks all |
+ crazy with the food today-  apparently there is Italian now in the small kitchen near Ops if anyone is hungry.... |
+Just a little FYI around this defect. was part of the call when we decided to close this defect. The discussion post explaining why was not from a dev, but from the temporary PO of MDGA who made the call to close the defect, so yes MDGA did update the defect when it was closed and someone from Support was aware it was closed. Buffered Rendering was a product decision a long time ago to improve page load times and tool performance because of how much data can be part of such tools. The wording "crappy workaround" was a poor choice of words, I'll agree, but buffered rendering is not going to be improved upon. That's a decision that was made pretty high up the product food chain. We are more than happy to help provide more of an explanation of why something was closed like that so if you are prepping for one of those calls and would like to anticipate some of their questions and ask us for some advice on how to shape answers, please feel free to ask.  |
+donuts on the food table in Boulder.... |
+you’re always showing off about what you have in your fancy fridge…good beer, good food, and now 1/2 & 1/2! |
+#goodafternoon team. Will be WFH today. Going to hospital with food for a colleague in lunch break. Hospital is close to my house but it may take bit more than an hour.  |
+i don't see these on the food table-  they must have been eaten by a bear... ??   |
+Me recovering. Hope by Sunday I can start eating normal food |
+- FYI, I will be taking my daughter to the doctor for a food challenge tomorrow at 8.30. If everything goes well, I should be back online around 1-2 PM MST.  |
+Hey I got food poisoning last night. Spent most of the night doing things other than sleeping. I'm going to stay home today and I will try to join meetings when I feel up to it.  |
+Food for "One of the comments made by several executives in the SandHill study is that they find it challenging to scale their customer success processes or program while still keep the customer-facing communications unique to each customer. What is your advice on how to scale the program?  |
+Lincoln There are many ways to talk about scaling a customer success organization, but here are three things that need to customer segmentation, automation and documentation |
+also, for what it is worth, the groups at IHS really like to know the "why" behind things.  I think the "why" is always important of course, but especially for IHS given how analytical they tend to me (or at least the groups I worked with).  Anyhow, just food for thought. |
+It was awesome! I returned from a great ski trip with the family and celebrated at home with some brazilian food and caipirinhas! |
+- here is an example regarding food supply |
+is anyone from  boulder in the office yet?  Trying to get someone to let food into the kitchen and no one is at the front desk. |
+are you in?  if so, can you see if the food was brought in to the front door and taken to the kitchen?  I ordered for the wrong week and am not there to receive the order |
+Thanks Food was delicious! |
+I can't even get the ws chooser to load to get to the right ws.  I've given up and am now watching food network on free tv. |
+have fun!  I agree about Shine!  It's really great (and I am not gluten free but thought the food was amazing).   |
+My favorite restaurant near Pearl St mall is Salt.  Not too fancy, just good locals ingredients (you have to eat a good steak while in CO!) |
+I don't know if there is still snow on the ground in Boulder but if not, a hike in the Chautauqua area is always fun!  I love Rocky Mountain National Park too, but it's definitely still winter conditions there and I've never been there in winter so I wouldn't know what to expect.  Boulder Creek path, just west (I think) of downtown along Boulder Canyon road is awesome too! |
+as long as the food doesn't change |
+the food is staying the same afaik |
+Same food |
+food would be good too…I forgot I have to feed myself |
+ok, i need to get some food and stop starting at a computer |
+Well, its that or hating myself after eating fair food so…. |
+too much mexican food  |
+Food this week - |
+That doesn't seem unrelated -- Laura used the word "Sombrero" and you suggested Mexican food |
+If we have Mexican food everyday, I don't think that's a problem  |
+- extending break outs until Food is here.  |
+OK thank you Please keep them coming.  Again, I appreciate your and team's help with non-glamorous task.  My plate is full these days - so timely help from you & team makes less food fall off it. |
+My point is this has risen fairly high in the executive food chain.  Support saw a 40% drop in opened case volume after the switchover.  Customers can’t figure out how to open support cases any more. |
+- who will be attending the Flow Workshop this Thursday from - 2pm? I want to make sure I get enough food for those who want to attend.  |
+- I am getting our food orders for the PO offsite on Thursday squared away. Please fill in your order here by end of day - |
+I'll use the same food vendors as last Etai's for breakfast & Panera for lunch |
+- please place your food orders if you want breakfast or lunch for the PO offsite.  |
+free food? |
+so what I’m hearing  |
+Nuke me some food, then back on the phone, chat chat chat |
+Defect Management training?  Really?  Sounds like taking a course on Junk Food Management if you are trying to get into shape instead of learning about good nutrition, diet and exercise.  Wouldn’t it be better to have coaching on how to reduce technical debt?  #trainingisnotalwaystheanswer |
+Love this quote from Aetna CEO Mark "No, in the past, businesses said that financial capital is the scarce resource and that people are plentiful. If you look at the jobs people used to do, an employer could always train a new employee to do the work. But it’s not just retraining somebody for a job anymore. It’s about the knowledge worker, and for Aetna, someone who has a level of empathy attention present. In that case, people are not a commodity, and now, we have a lot of financial capital in the system. So, we’ve flipped the paradigm and said, “Let’s invest in husband or scarce resource, which is talent — a motivated, engaged, present worker. And let’s put at risk some of our capital to do it.” Because, if people can’t make ends meet at home with food, benefits, health, and health care in particular, how can they be present, engaged, knowledge workers when they come to work?" |
+guys I'd be interested to get some opinions on this - made me laugh but then gave me food for thought. This guy is in the US and I wondered if in your markets you see a lot of this 'Agile and Scrum are the anti-christ' cropping up - feels like it's been brewing for a while. I've given it to my team and asked for us to use it as an internal team discussion/thought provoker piece to help them handle objections. Anyway - have a read, have a laugh and please do share your very valid and non evil agile consultancy opinions  |
+That's because men don't listen, read or pay attention. We would rather live in caves, hunt for food and discuss sports ;-) |
+thank you for the information...I found out from Skip I can go but I would have to pay for airfare, hotel, ground transportation and food because Rally will cover $2,500 towards expenses including cost of class. So, not sure I will go. |
+Indeed. They get to nap a lot. I have decided cats are like teenagers. They generally ignore you except when they want your attention and when they want it, they want it NOW. Dogs are like toddlers. They follow you around wondering what you are doing and hoping that any minute you drop something interesting on the ground. Food being the best thing. Easily entertained. |
+fwiw I have copy of those policies from when I worked on that account. Not sure if it’s the same (these were nothing onerous).  There were some $ limits on food, no we won’t buy you a bottle of tequila every night and split your expenses please... |
+On the club access besides having a place to wait in comfort they have wifi, food and most importantly if you are stuck due to delays there is a human to help you |
+United is really my only option living near DC.  They have a great rewards program.  I've managed to take family on a lot of trips with it - makes up in a small way for all the time I am away.  Good entertainment on long-haul flights.  Good food you can buy, bad food you get free.  Domestic first is barely better than economy plus unless you like to drink on a plane (I don't, yes I know hard to believe).  In-flight, gate and check-in service level is amongst the worst.  I don't care for United's lounges but British Airways are great.  JetBlue is great, Southwest has great service, Norwegian too. |
+I’ve had both food poisoning and stomach flu on flights…worst thing ever.  You dont want anything to happen because you might not stop plus the nice breath you have afterwards.  I kept thinking, “I can make it to my hotel, then collapse”.   |
+Ugh... that is why I have made it a rule to never eat Mexican or really spicy food before a flight... |
+Santa Clara is my office too. i keep hoping they'll deliver some of this Caribbean food they're emailing us about  |
+IMHO, you need to have finished delivering the Release Planning simulation by the end of Day 1.  I find that Day 2 jumps between team, program and portfolio level and as a learner I would find that frustrating.  Also, the Portfolio section tends to fall in the after lunch "food coma" lull.  However (!), when we delivered v3.03 this week, the books we got from the printers were in a different order to usual (we're not sure why yet), and IMHO it worked better (though Day 1 is a bit of an "acronym attack" for newbies - they may break out in hives).  The re-arranged order (Day 1) Embracing lean & agile values, understanding safe, Agile portfolio, (Day 2) Agile Release Train, Release Planning, Releasing value, Lean-agile enterprise.  This order meant there was less jumping between the 3 SAFe levels. |
+I did LSAFe last week with Eric and am doing it this coming week at TWC.  I'll put some thought into some additional feedback as I go through it with TWC but for now, I agree with some of the comments around redundancy.  I understand that repetitive content can help solidify the knowledge, but I think there is too much repetition with some concepts in the course.  I also really do not like the simulation and would much rather see something more like the Lego game or even the new food game that leaves people with an analogy of the approach and what happens as opposed to them getting so stuck in the weeds of database upgrades and shipping methods that they fail to get the underlying point.  I think more activities and role playing would also help people understand the concepts.   |
+I wish they would've kept the architectural section as opposed to it being a part of others, in my experience, teams/groups do not give non-functionals and architectural epics enough attention and by the time they realize it, they have technical debt up to their ears.   |
+After next weeks session I'll provide some additional feedback as this will be fresh on my mind to look for opportunities.   |
+I know did a lot of work there, and if you're visiting Indy then let me know and I'll give you some fun food suggestions (I worked 2 blocks from their office for 2 years, and in the city for 8 years) |
+I only have time (tomorrow/dinner) for one -- which would you go with (I like ALL food) |
+I don't think there is, but If anyone is still in the Boulderado tonight and I are meeting at 6.30 in the corner bar and heading out for food. |
+"SAFe is like a big wedding. There is a commitment. Engineering and Product have decided to get together. Food is really important to success." |
+"Failure is a poison, and when James reentered the Cavs’ headquarters last fall, he found an organization infected. Players rolled in late for treatment sessions, bagged extra shooting, left plates of food sitting around the cafeteria. There was no individual to blame. The coaching staff was new. The front office was revamped. James doesn’t like to reference power—'People confuse that word way too often,' he says—choosing opportunity instead. 'What he’s done has worked … The atmosphere here is a little tougher, a little more disciplined, a lot more focused, a lot more committed.’” Really awesome leadership and transformation [story in today from, of all places, LeBron James and the Cavaliers. |
+- Marketing is gearing up for the SAFe 4.0 announcement next week (planned for Jan 5). We have several things updating the [SAFe toolkit the [SAI partner social promotion, blogs, webinar with Dean, RO Jan all hands,.... We could use a Services review of this [4.0 master  Is anyone needing a break from holiday |
+Even if we dont agree with what people are saying - lets face it a bunch of people didnt and dont agree with Dean either, it provides food for thought. |
+Hi I definitely understand your need and appreciate the feedback.  It would be food for you to also provide that feedback to Steve Breese.  He might reconsider the existing Kanban states or create a new custom field for your needs. |
+I got to wondering about ways to handle the "big room planning travel is too expensive" objection, and started running some numbers... Do these look plausible?  |
+Sizing 150 (full ART + stakeholders etc), 50% traveling from remote sites |
+Cost  $1k per day per person (air, hotel, food) |
+??? Does anyone know what it costs to contract with a hotel for a ballroom and services for two days?)  |
+This looks to me to be an investment for one ART of $150k for travel for the two days, not including the event space and any services.  |
+Do these assumptions look like they would hold water in real world discussions? |
+I get that perception, as there are a lot of logistics that RTEs tend to get involved in (venue, food, invites, setup, “theme") that would resemble a “party”.  Not that they have to do all (or any) of that work, but are responsible to organizing activities especially PI. |
+The RTE in Real Estate solved it by getting an event planner. Valid solution? So now she is only facilitating but not responsible for venue and food.  |
+The RTE in Real Estate solved it by getting an event planner. Valid solution? So now she is only facilitating but not responsible for venue and food. |
+Heard something I liked around Innovation this week on a webinar.  Don’t say “fail fast”, instead say “learn fast”.  Don’t want to fail, but do want to learn quickly.  Kind of like using “drink your own champagne” rather than “eat your own dog food” sentiments. |
+One more  I don't sell Agile anymore, I don't sell practices anymore, I do sell continuous improvement, I do sell outcome-driven, I do sell incremental approach.  Food for thought when you talk with Execs... |
+OK, this is a little funny and a little long for the services flow, but because several of you have asked me yesterday/today… it almost feels like there is a (miniature!) elephant in the room. I’m TOTALLY still with CA and staying with this AMAZING crew. I have indeed accepted an advisor position with [The Food Corridor](thefoodcorridor.com) — who are doing good by doing well, connecting our local food systems! (local food producers with local kitchens). But I’ve always spent my time with local startups! I co-lead Fort Collins Startup Week, I volunteer with Startup Colorado, I've run pitch and lean startup meetups... and have always advised local startups! This team just has such great consideration for social responsibility, such great team EQ and amazing discipline around lean startup techniques, combined with amazing domain expertise… that we chose to make it more formal (and announce on linked in). **Short I’m not going anywhere. I learn so much from you all, and I LOVE working with you all. And I’m proud to try and help us drink our own champagne at CA... and serve and connect this AMAZING TRIBE! (Help me do that more and better?)! Looking forward to speaking with more of you during our empathy interviews and seeing ALL OF YOU at the agility services conference (pka coaches conference). |
+Cool.  Actually curious if we could ask the food provider to label anything as nut-free/not cross-contaminated.  (Have one person in the class with an allergy. She's cool about it; just went out to get her own food because not sure about the cross-contamination thing.)  Just thought I'd ask; not a big deal. |
+I've go some food poisoning or other type of bug. I'm wreckage. |
+food for thought...people don't buy what you do you but why you do it. Simon Sinek TED talk on "Start with (short version) |
+I listened to this years ago but still found the refresher valuable... |
+Here is the room they have for us.. They will arrange it in pods for us. Can provide as many flipcharts as we need, etc.. $300 food/beverage minimum per day and the rental is free. projector, reception, etc will be additional. |
+Ack!!! Start without me. Putting up food. Be there in 2 |
+Let me count the ways I love  truly good food options, fast wifi, wifi reaches the plane when it's at the gate, a yoga room |
+Ha! There are Rachel Weston’s far more famous than me. A NJ food writer whose twitter handle is roxydynamite (!!!), an NZ singer (that’s her pic), and former Vermont state rep.  |
+Really just asking to see if I needed to bring food to the meeting |
+you should always bring food to a meeting |
+Food acquired by nefarious means always tastes better, don't 'cha think? |
+Ok, you should have a JJ email in your inbox. Follow the link and order food. You can go "unwhich" for lettuce wrap version if you don't want bread-y products. |
+if JJ's food can't support anyone's dietary prefs please let me know. I don't want to fail on food  |
+ah ha…that explains it…although I think it came out more like a $401,224,199 feature due to added food bills |
+Rats! No food for me; we have Leonid’s empathy interview coming up! |
+Some wonderful food for thought as we do our hard/great |
+I'll be on in 10 minutes, I need to run down and get some food since I just realized I have 3 hours of meeting without a break |
+I haven't really left the room other than to find good food and music ;) |
+Good, short article from the best companies hire for attitude and train for skill. |
+- even great people need constant opportunities for improvement |
+- Leaders who are serious about hiring also have to be serious about teaching |
+Ohhhh! isn't it annoying when there is this "Well, there is nothing we can do." Hence my acupuncture today (which wiped me out...weird) and trying a new set of vitamins, minerals, green food powders, and yes, Chinese mushrooms. Please please take care of you first. You just came off of a sinus thingus, non? BTW, while buying out Pharmaca, I ran into Melissa Pickering who leaves next week for Uganda for a design thinking workshop and then non-profit work. Wow. She says hello! |
+And put all hotel food on the card directly so I don't have to screw around splitting things |
+was getting ready to go collect food from grocers... I'm a solo dad for next 14 days |
+2015.10.09 |
+BRP location |
+Crowne Plaza on Thousand Oaks 11/11-12 most likely |
+Product Owner Meeting 2015.10.08 |
+Purpose was to create additional synergy between teams |
+Since last BRP there have been some communication issues |
+Some are coming up in Scrum of Scrums, but Charles wanted to work with Product Owners as well |
+Session was very productive |
+They're starting to talk about priorities across teams and sharing work across backlogs |
+Coaching |
+Charles wants teams to get help with story writing and sprint planning |
+Transformation |
+Program Design Workshop planned for 10/19 |
+Next BRP |
+executive overview |
+Needs to be more focused on current priorities and vision to give teams direction this time. Charles needs to ensure presenters get that message and that he supports them in preparing it. |
+management review |
+Really need much better attendance this time. Give everyone advance notice, emphasize the importance of the event, and have them prepared to make prioritization decisions across the portfolio. |
+food |
+Lots of complaints last time. We have to make sure we do a better job this time. |
+Team Dynamics |
+Want to do external team building exercise |
+What do you need from me? |
+Think about for next to prepare for Program Design Workshop? |
+How to get better attendance at team demos. |
+How to do Inspect and Adapt workshop. |
+food wednesday! |
+This is what will happen if we don't get food, |
+I'm planning on heading to Snarf's then home for this afternoon.  I plan on taking my food home, so I should be on around when you get back.  don't worry about breaking the build.. my fix is deploying as I type. |
+Just some food for Both of these were scheduled and we got errors because of ALM. What would happen if the errors were swallowed by the error handler? |
+can anyone tell me the process for looking into having CA sponsor food and supplies at Women Who Code events? |
+might be food for discussion at lunch,  |
+Sounds perfect 👍  |
+My brother works there and told of some creative ways they worked to poach employees from Red Hat. They parked a food truck outside of Red Hat's HQ and bought their employees lunch in exchange for a recruiting pitch  |
+what is Churro? -- not the food |
+I will afk while I migrate from the food desert that is my apartment to my girlfriend's house |
+I'll buy a couple rounds and expense $15 of food for everyone's "lunch"? Thoughts? |
+I pretty sure I got food poisoning |
+I am going to finish up at the house so I can get some food (and heat/less AC) |
+I had to relocate to the nearest fast food place with wifi for lunch.  Vzn still hasn’t even responded to my ticket…grrrrrr |
+no, but if your food expenses are less than 70$ a day, you don’t need a receipt |
+but i submitted no food receipts from last trip |
+you need to classify your expenses in the buffer as food |
+trying to match up the SAP categories... By buffer do you mean one "Miscellaneous" entry per day and then food as the description? |
+Food this week - |
+The food aroma is making me very hungry |
+- extending break outs until Food is here.  |
+Oh taco, living up to the mexican food reputation of falling apart easily. |
+I’d like to get an idea of who will be attending the localization workshop next week and which days, so I can figure out the food situation.   |
+- who will be attending the Flow Workshop this Thursday from - 2pm? I want to make sure I get enough food for those who want to attend.  |
+I’ll be there too, but via webex (so no food needed) |
+im hungry though, gonna grab food |
+Well, crying isn't gonna bring him back, unless your tears smell like dog food. So you can either sit there crying and eating can after can of dog food until your tears smell enough like dog food to make your dog come back, or you can go out there and find your dog. -Homer Simpson |
+they had some good looking food and I was in a hurry. i went to our office in plano for the DNA talk then icecream. I couldnt find the "multi-purpose" room |
+here the food list for hack demo/planning  (sorry Sheri  ) |
+The food looks better in Denver ;-) |
+Thanks, I made the mistake of trying this $1 scoop Chinese place by my house after work and now I have food poisoning  |
+that sucks man, don't pay for food by the scoop  lol |
+never made it to the drivers license office this morning - i think i have a touch of food poisoning. and no, i didn’t eat $1 / scoop Chinese food yesterday ;-) |
+Hey who will be in Boulder for big room planning, Oct 5th and 6th? If you will be attending, please let me know if you have any food restrictions (vegetarian, vegan, gluten free). |
+OK...what food can Ron Swanson not eat? |
+The food my food eats? |
+#planning #retro - order enough food for everyone who will be eating, not just those there for planning |
+Together In Action volunteer week Twenty-nine people have signed up for our project at Growing Gardens on Earth Day, Apr 22nd. Want to join us? Sign up! We’ve added a project onsite at the Denver office on Monday April 18, We’ll be assembling care kits for Family Tree. If you are on the AgileBU-Denver mailing list, you should have a calendar invitation from me. If you are not on that mailing list and want to participate, just let me know. |
+- We’ve offered a project with Community Food Share in Louisville on Wed Apr 20, 9-12. We need a minimum of 5 people. If you are interested, please add your name to the sign up. |
+NEW! Volunteer project on May the date – Mike Parrish will be leading a project with Boulder County Parks and Open Space on May 12, 1-5pm. Location TBD. Reserve this spot in your calendar and look for a sign up in the coming weeks. |
+hello team, I have a food delivery for Christen and Michael Wilson from Pizza Kitchen, but that was the only information given,,,,does anyone know who these people are? |
+FYI Los Dos Bros Mexican food truck is across the street from 10 - 3pm in the Tundra parking lot.....yum, tacos, burritos...etc |
+thanks for letting us know.  keep it up, we love the food trucks! |
+If you don't need a setup or you are not expecting food, you would not need to include facilities.  |
+It's a week until our project with Boulder County where we will be building a causeway and using some power tools. How fun is this going to be? A causeway? Power tools?!? Way more fun than sorting items at the food bank. We only have seven folks signed up and we need at least five more to keep the project. I was just informed that we will be providing lunch before the event as well. |
+Got plans after work today? Come to Twitter Boulder tonight to hear talk about “Breakfast Burrito Friday and Firebase " and Lisa White of Twitter talk about “Distributed Systems at A Deep Dive on the PowerTrack Streaming API Architecture”! |
+Details there (there will be |
+Good Morning All - Los Dos Bros Mexican Food Truck is outside in the Tundra parking lot now......YUM |
+jarvis food |
+Today's food truck is BYO |
+jarvis food |
+Today's food truck is Smoke Wagon BBQ |
+food |
+Today's food truck is French Twist or Freshii Catering Wraps and Salads |
+jarvis food |
+Today's food truck is Smoke Wagon BBQ |
+food |
+Today's food truck is French Twist or Freshii Catering Wraps and Salads |
+lots of leftover food from BRP is out in the South-side 3rd floor kitchen |
+jarvis food |
+Today's food truck is French Twist or Freshii Catering Wraps and Salads |
+jarvis food |
+Today's food truck is Los Dos Bros Mexican |
+I ordered some food from Hungry Buffs they should be here in a bit if you just want to let me know here and I can come down and grab it |
+jarvis food |
+Today's food truck is Los Dos Bros Mexican |
+Standby for ;) |
+Hello if anyone had money  on the KIOSK card for the old Boulder food court I need a list of names and phone #s  so Alpine can get the money back to you. |
+Boulder Food Rescue event  |
+Pastries on the Path! Free coffee, rescued pastries and fruit on the bike Tomorrow, Friday, 9/30, At the intersection of the Goose Creek Bike Path and Folsom St (between Bluff and Valmont).  |
+Non-work (volunteer Community Food Share is looking for a volunteer to help with their Google Analytics. If you are interested, please let me know and I’ll forward you the contact information. Thanks. "We are currently redesigning our website and planning for its launch in January 2017. I am looking for someone with professional experience in Google Analytics to help me document and benchmark our current website’s performance so that we can measure and report on the impact of the redesign. I need direction on the most important data to pull from Google Analytics and how to do it (think private “Google Analytics crash course”). Ideally, this person will help me create a report template, then work with me one-on-one to teach me how to pull data to populate the report in the future. I’d like to meet in December to benchmark our current website, then again in February or March to benchmark the new website." #volunteer  |
+_/giphy me food poison_ |
+Consider this in your messaging… it’s actually safer to have your data in the cloud with someone you trust, lest you end up like MedStar. Some low level person opened a phishing email and let the hackers right through the higher and thicker firewall. But these were ransomware hackers, who promptly encrypted ALL of MedStar’s data, including patient records, and are demanding a payment to unencrypted it. MedStar has been reduced to filling out paper forms to service patient. Paper!!! Had their data been distributed around the cloud, the hackers could have never done this. |
+I know DoD & Intel will never buy that argument, but the Civilian agencies might is you can make the right risk analysis for the sensitivity level of the data. If an agency CISO is completely confident they’d pass an IG audit, then great sell them OnPrem. Otherwise, the data is safer in the Cloud. Food for thought…. |
+Above is the spreadsheet for Quarter End food |
+I just went to get the food, don't forget to call into the line at 1230 here from those calendar invites JoAnn forwarded us yesterday. Thanks!  |
+With everything being shutdown around noon we're going for tasty food at the a little after Beat the lunch rush and find a nice table in the sun ☀️ 🍴 🍻  |
+great choice on food and table  |
+I misinformed you guys - food is 12 and videos of hacks start rolling at  |
+I'm going to meet Becky for late lunch. After food we'll go get Henry from school and head home. I'll be online from there. |
+what if, during tomorrow's demo, I fried up some burgers on the grill in the kitchen? Would you eat one? I will accept 2 answers... meat or veggieburger. if neither option works for you, please plan on buying or bringing your own food. Please do RSVP if you plan on eating from these options as I do not want to buy too much meat |
+You'll miss us here in Denver, or the food we have here on the days you are there 😏  |
+going to pick up our Pete's order at May need some help getting the food back to the office. Any volunteers? |
+ we are stuck at illegal Petes because they just started making the order will be there with food shortly  |
+Thanks for the update, Everyone is still working, so we're just waiting for food. |
+Unfortunately due to the cost of buying lunch for so many people every week we will be getting a sponsored lunch once a month. This means today we will not be able to provide food. I apologize for not mentioning this on Friday. If you were counting on lunch being provided and find yourself without food feel free to contact me, I might buy pizza or something. I wouldn't want anyone to go hungry |
+last chance to order food |
+watch it togethers will start back up today. probably in 15-20 mins to give people time to get food |
+- could you please fill out your food order for tomorrow's breakfast & lunch, so that we can place our order? Please provide this by 2pm Mountain Time. Thanks! |
+food is ready in the back kitchen  |
+Stepped away to grab some food |
+    Anyone got any problems with this wording? About to send it out to all those who Hi, |
+     |
+    Thank you for registering for Rally’s Agile on the Rocks  ‘Taking Agile Beyond Your IT Department”  |
+     |
+    It will take place next Thursday, April 3, at the Deck Bar, Waterside Hotel, Melbourne CBD (entry from Mercantile Place). |
+      |
+    Registration commences the panel discussion starts at 6pm sharp. |
+      |
+    Interest has been very strong and the event is fully subscribed. If for any reason you are now unable to attend, could you please let me know by reply email. |
+      |
+    We look forward to a great evening of food, drinks, networking and Agile discussion as our panelists from REA Group, Seek, Telstra, MYOB and AusPost share their experiences and insights. |
+      |
+    Regards, |
+    Nicole |
+Interactive map for the best coffee spots in Melbourne - the WORLDS's BEST coffee! |
+From the Onegirl Charity; Hey guys, |
+I’m emailing you today to personally invite you to an event I'm really excited about - the One Girl Gala. I've just got my ticket and would love you guys to join me! |
+Amazing food, lots of wine, beer and cider - and of course there will be lots inspiring stories and a tonne of fun. |
+It's on Saturday June 13 7PM in South Yarra - tickets are very limited so please grab them ASAP if you're coming to avoid missing out. You can grab your tix from www.onegirl.org.au/gala |
+See you there Chantelle |
+It was cold- I wore the uggies in and home… Oh look you can’t see the food I dropped down my front in this pic- winning! |
+Lunch, CA style #Canberra.  So much food they are almost forcing it on and me. |
+- Here is food for thought - When we call from CA phones it comes up as a private number..  I don’t answer private numbers, and nor do most people I know.  This could be somethings small and simple we could fix that may mean more people will answer our calls? |
+We even impressed an Architect at Bendigo & Adelaide Bank this week! "Thanks for organising yesterday’s session which I found very informative and refreshingly natural. I have been to a few vendor session and they were more of a sales pitch than a subject matter expertise session.  Both, David and Suzanne, were a mine of information and I was glad that they had so many real-life case-studies/examples to share with us. The topic was definitely food for thought for the Customer and Partner team."  |
+jarvis food |
+Great food for thought. |
+Food for thought why does this dashboard suggest we have 49 defects in a not looked at state.  Not 24  |
+There has been some grumbling that Rally has become a less fun place to work recently, and Mike Holm on the Gnarwhal team took the initiative to do something about that and plan an engineering celebration in Boulder. We are spending a few hundred bucks and bringing in a company that will put together a lazer tag setup, and letting people run around on the third floor of the new building to zap each other. I'm sure we will cater in some food too. |
+I'll eat their food if they don't make it. |
+Food in Raleigh has arrived, so once i grab that, i'll show up |
+I am back - eating some food real quick and then will SH |
+FOOD |
+_FOOD_ |
+**FOOD** |
+_**FOOD**_ |
+Good Morning Paas , we (the scrum masters) are trying to square away Hackathon and BRP food order numbers this week.  We've got 5 types of diets that we are asking folks to slot themselves into... |
+1. No Gluten |
+2. Vegetarians |
+3. Vegans |
+4. Specialized Diets (don't fit into any of these previous 3 groups) |
+5. Consumers of most All Foods |
+Please confirm with me which one best fits you. Let me know if there are any of the Hack or BRP events you won't be at. For food order purposes, I'm going to err on the side of assuming everyone will be at all the things |
+ALSO... If you have suggestions on where we should order from, let me know (no promises) |
+Thanks!! |
+#hack #food |
+I'm a 5, but not positive that I'll be present, depends on when hack week is  |
+You could peruse [PR for me while I run for food |
+and you’ll get all the free food i’ll be buying. |
+We have to go boxes ready but no food in them yet... |
+trying to get food figured out for BRP week.  can you guys let me know if anyone is a vegetarian, vegan, or gluten free?  thank you! |
+I am on a sea food diet |
+if I see food, I eat it. |
+i'm shoving food down my throat right now |
+you gonna share your food too? |
+jarvis image me master bacon food truck |
+how late are you here today? we're finishing retro then I need to eat some food, but after that we can SH and get it running |
+I’m here… just let me grab my food and get back to my desk. |
+shoveling food, will be back in a few minutes |
+No food at big boss right? |
+I'll check Oak and Dagger. Big Boss does not have food and charges a $500 fee for space. If not I'll check back with Crank Arm. Thanks for the input guys!  |
+if you need a place try the Lynnwood Brewing Concern. It's off Atlantic and Whitiker Mill. They open at 3pm on Friday, have 13 beers on tap and a cool outdoor space. A food truck usually shows up around 5 but they can come early. Or you can bring food or order pizzas. My neighbors and I go there Friday nights and it's packed.  |
+- I talked to Ted at Lynnwood and this seems like a lot of fun. They may be able to get a food truck to come in at 3pm or we can do catering from lynnwood grill. I say we go this route for our post BRP celebration unless I hear any objections!  |
+- if you want in on snacks, lunch, and post big room planning please make sure you are on this sheet and you are counted. The entire office (not just CA AC) is welcome to the food and celebration. If you are on IO and HHA I pre populated the spreadsheet from asking at stand up. Can you also add a comment next to your name if you are vegetarian or require any other special requests? 1 = you will be there 0 = you will not. Thanks!  |
+are y’all interested in free food? |
+free food sounds great, but unfortunately I’ll still be in PA for the dates in that spreadsheet |
+Welcome, set it all up! Please take a To Go (I just put them next to the food)  container and pack whatever you want. I am going to put everything else in the fridge at I'll ask that the cleaning crew not throw this stuff away. |
+- food is here if you have not already got it |
+Angela and Candice will be in town next week.  They would like to talk with everyone in the office.  We’re working to move meetings and rearrange schedules.  Please let me know if you did NOT get invites for next Wed.  The outlook list may not be up to date.  The plan also includes grilling for lunch, so free food! |
+Thank you to grillers - and also to for picking up food |
+There are some popsickles in freezer as A) a gluten-free alternative to cookies or B) anyone who feels they've earned a 2nd dessert. |
+Dearest  The freezer door was SLIGHTLY left open last night, so the ice kept melting and refreezing.  So i tossed a big block away.  For anyone that may have food in there, I would advise a check to ensure it's still good. |
+Thanks for the link. I looked for it before and didn't find it. I'm sure it's coffier than my current breakfast. I am not a coffee drinker. I'm looking forward to the solid bars, if they are good for travel. One size does not fit all. They need more more flavors, more special formulations for age and lifestyle... basically like the cat and dog food industries, but for human nutrition and tastes. |
+amongst the grilling food, there’s a bag of homegrown cucumbers free for the taking.  I’ll put them on the counter this afternoon and send another note to the flow.  <swirl type=“hypnotic”>You want to take a few cucumbers home.  They’re yummy.</swirl> |
+freezer door was left open last night. Please check your food before eating it. |
+Please refrain from putting messages regarding food in the flow after i've already left the office in the future.  Thank you. |
+I’m sure the food is still in the fridge.  Plus, I have more at home. |
+Also, I have a Kelly Kettle (Base Camp model) if anyone needs to be able to boil water or cook food  |
+It went well. Lots of guests... Lots of members... Lots of food... Lots of good conversation... Got home late... Nobody from the Raleigh office showed up, but keep in mind that Toastmasters welcomes guests anytime; you just don't necessarily get the high-level view of what Toastmasters is about, and you don't get fed. We meet every Tuesday night. |
+🎃 🎃 🎃 🎃 🎃 Halloween Celebration on Monday!!!!!!!!!!!!!! Decorating contest, costume contests, food!!!! Here is the Pot Luck sign up sheet. - 🎃 🎃 🎃 🎃 🎃 🎃 🎃 🎃  |
+to everyone who brought in food! it's delicious |
+Glad everyone enjoyed it!  Thanks to everyone for all the delicious food |
+🍵 Thank you and also for buying all the Novemberfest food. |
+Food is ready  |
+fun fact - turkeys are 39 cents a pound at food lion.  perfect for say wednesday’s potluck! |
+reminder POTLUCK TOMORROW!!! All you WFH people make sure you cook your food or stop at the store to get something to share tomorrow |
+wow, such lunch, much food.  thanks for all the great dishes |
+Yes this happens with some regularity. They are supposed to investigate at a higher tier in the security food chain. I haven't gotten any info on what is causing it. If it's an automatic process that is causing it to fail on my end. I need to know that that is what's happening.  And not some other thing. |
+it’s not sea-*food*, Val, it’s sea-*juice* |
+I left a few menus in the break room for Red Pepper Asian, imo the best Chinese food in Raleigh. Check 'em out if you haven't yet! |
+tough call. I can speak to ale house as having great food and a wide selection of food and beers. Carbon I have never been to or tried so I would totally be down for that, though looks like the menu is much more limited.. |
+working with Janelle on food for big room planning.  are there any vegans, vegetarians, gluten free, etc people on the team? |
+ok then maybe we’ll just go somewhere fast  Could always just do indian food truck or something |
+i am always up for all things food |
+but I enjoy all things food so I am good with all of these so far |
+I would prefer Little India between those two options. Especially since our normal Indian food truck has gone missing. |
+Big Trouble in Little India Food Truck |
+That sounds like a new Food Network TV series. |
+I wish I was there! Looks like fun! Plus, I love food!  |
+Also known as cat food |
+Don't worry folks, that's a genuine cat product up there. They sell cat food and such |
+nobody remembers me talking about |
+crap!  I need to get food before my ticket time! |
+had a good buddy of mine stick around for one of the storm only to have his neighbor call them (who evacuated) and tell them that since the power was out to go into their garage and eat the food in their deep freezer... .turns out they were big into lobster fishing.... so grilled lobster for the week while they waited for power to come back |
+I don't have any cool stories like that of the storms in Maine We sat inside, with candles, and ate canned food, and the side deck fell off the house once? lol |
+This is how they do it right? American food only? |
+you got all the food at home |
+when I think of hotpot, I think of delicious food |
+there was too much food |
+But I do know all the numbers of every food delivery service by heart. |
+I have instant grits. That's my only breakfast food in the house lol! |
+food first |
+you will find some pretty good places there... a bit more of the larger and some touristy places...but still good food |
+food |
+Oh sorry, this is typical apple-esque drink, some weird fermented health-food tea filled with a giant bacteria cake, I was under the impression everyone knew what it was because I was the weird outcast that DIDN'T drink it at Apple |
+free food |
+Also, there's a Taco Bell food truck |
+much food was consumed this day   |
+Much food! |
+and apparently cartoons > food   |
+Kids are insane. Food is amazing |
+he was dropping food on the floor for them |
+Take away entertainment and explain why it's important to eat your food and not give it to the dog? |
+2. he makes the dogs sick if he feeds them his food |
+yea trust me, then the food just gets cold |
+sooooo...what's the late lunch policy? I missed mine, b/c meetings and then helping with phone coverage. should i go now or can I just leave for the day a bit early? I dont' want to mess up coverage this afternoon, but I'm just looking at the clock and feeling like I'd rather just finish up my work over the next than grab food and come back. no bigs if that causes issues though. didn't know what you guys usually did in such situations.  |
+Reposting email September 23rd we are hosting the second annual Agile Central Developers’ Conference. The conference is a forum where we can meet as a software community and learn from each other. Similar to last year we'll Webex and LifeSize all presentations to accommodate participation by all Agile Central sites. |
+The day will be a mix of short (15 min) and long (45 minute) time slots. We have a great lineup of speakers and topics this year. The schedule and brief description of the talks can be found here. Any changes or information about the conference will be updated on this site. |
+Breakfast and lunch will be provided in all Agile Central offices. Survey to come so that we can have an accurate head count for food. Feel free to update your talk description and add links to any resources you have here. you have any questions or concerns, please reach out to Steve N., Adam E., or |
+food for |
+Hey / –  |
+There's been a few folks taking food meant for AgileU classes from the back kitchen. Now we've had TWO instances of the class being short on lunch because CA/Rally staff took sandwiches/wraps before the class. That's unfathomably rude and embarrassing.  |
+Please don't eat our paying guest's food until gives the thumbs up via this Flow or email. |
+that’s pretty bad. the back kitchen food should be off-limits, and only food in the main kitchen is available to scavenge. it always worries me when someone says “food in back kitchen” or if they come walking off the bridge with food |
+Maybe we should hire a hobo to guard the AgileU food. |
+“here, watch this food and make sure no one eats it" |
+Good Morning Today is Fridge clean out day! Please trash/take any food you have! Also, there's lots of OJ in the back Auditorium fridge if anyone would like that. Happy Friday and have a GREAT weekend! |
+So I am curious how the food I left in the fridge on tuesday got tossed if Friday was clean out day?   |
+Hi Sorry that happened! I've decided to go the route of simply reminding the office to clean out their food instead of me or any other individual doing it. So not sure who is trashing your food/containers.  |
+so wait some random person is going into the fridge and tossing all the food in there at random then?  Thats pretty of someone to do!  How can we stop that from occurring? |
+Disregard! Food for bike to work folks will be here shortly from Mod Market!  |
+my roommates and I are having a belated house warming party this Saturday and you are all welcome to come by. Going to start with a backyard bbq in the afternoon. There will be music, beer, good food, games and will be family friendly. As the sun goes down the partying goes up and we will probably get less family friendly lol. Feel free to come by and leave whenever works for you. If you are interested in participating in any of the festivities, reach out to me and I will give you the rest of the details. Cheers! |
+do we get a food stipend we can expense said food since prices are sky high?  Also can we request things to fill those boxes with…such as Dr Pepper  |
+I'm actually going to start my own food selling business once the vending machine is gone so... |
+reminder watch it together today! we will start the video in a bout 30 min to give time for people to get food |
+it doesn't appear they have food at this event, does anyone know for sure? |
+there is leftover Mexican food from the Agile Academy class in Denver. If you go, please walk up the bridge and don't disturb the course. Please leave the drinks and desserts for the customers to enjoy in the afternoon.  |
+my friend Ben will have his food truck, [Base Camp down on 16th and Wynkoop today. Check it out! They will be selling taco bowls. Look out for a refurbished ambulance. |
+Best Food pumpkin scones |
+#non-work Does anyone know of organizations (food kitchens, shelters, etc) that may be soliciting volunteers for Thanksgiving Day? |
+Although now that I think again, there were many pens on tables.... and I cleaned up large sized stickies.. Seemed like a class, also there was food and snacks still.  |
+please don't forget to for the events you would like to participate in and also please RSVP if you haven't already to the calendar invite so I know a head count for food and drinks |
+we will be ordering pizza and salad from [Lucky please let me know if anyone has any food restrictions so I can order appropriately |
+Tonight - How Nielsen Leverages Data & Machine Learning for Real-Time Analytics + Free beer & drinks, swag, junk-food and lots more! www.meetup.com/mysqlnyc/events/235443113/ |
